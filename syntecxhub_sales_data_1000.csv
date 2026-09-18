@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Region,City,Quantity,Unit_Price,Discount,Sales,Profit,Payment_Method,Rating
+ORD0001,2025-02-22,CUST1174,Desk,Furniture,North,Chandigarh,1,12463.78,0.05,11840.59,3556.64,Cash on Delivery,1
+ORD0002,2025-11-05,CUST1007,Office Chair,Furniture,East,Patna,1,8785.29,0.05,8346.03,2490.35,Cash on Delivery,2
+ORD0003,2025-01-04,CUST1195,Webcam,Accessories,Central,Nagpur,4,3343.45,0.2,10699.04,1663.19,Credit Card,4
+ORD0004,2025-07-14,CUST1025,Mouse,Accessories,West,Mumbai,2,859.01,0.1,1546.22,445.93,Debit Card,3
+ORD0005,2025-07-13,CUST1021,Office Chair,Furniture,West,Mumbai,1,9849.19,0.2,7879.35,1526.96,Cash on Delivery,3
+ORD0006,2025-04-27,CUST1198,Desk,Furniture,East,Kolkata,5,11409.19,0.0,57045.95,21154.64,Debit Card,1
+ORD0007,2025-07-01,CUST1054,Tablet,Electronics,North,Chandigarh,4,21218.47,0.1,76386.49,21003.67,Debit Card,1
+ORD0008,2025-05-19,CUST1237,Office Chair,Furniture,South,Chennai,5,9848.27,0.05,46779.28,11697.18,Cash on Delivery,2
+ORD0009,2025-07-25,CUST1069,Desk,Furniture,West,Ahmedabad,1,11479.77,0.0,11479.77,2513.96,UPI,2
+ORD0010,2025-11-26,CUST1118,Office Chair,Furniture,West,Ahmedabad,2,9736.27,0.15,16551.66,1033.28,Credit Card,3
+ORD0011,2025-08-08,CUST1230,Monitor,Electronics,South,Kochi,6,18176.74,0.1,98154.4,14243.0,Cash on Delivery,4
+ORD0012,2025-02-26,CUST1040,Mouse,Accessories,South,Kochi,2,901.37,0.0,1802.74,412.55,Credit Card,4
+ORD0013,2025-10-11,CUST1221,Office Chair,Furniture,North,Lucknow,4,9320.06,0.15,31688.2,4629.35,UPI,1
+ORD0014,2025-08-11,CUST1041,Desk,Furniture,Central,Nagpur,3,12515.71,0.1,33792.42,9675.51,Net Banking,1
+ORD0015,2025-11-17,CUST1077,Webcam,Accessories,West,Mumbai,5,3646.7,0.2,14586.8,-46.05,Cash on Delivery,5
+ORD0016,2025-09-29,CUST1236,Tablet,Electronics,South,Bengaluru,3,22924.04,0.2,55017.7,-735.85,UPI,5
+ORD0017,2025-06-07,CUST1062,Mouse,Accessories,Central,Indore,1,844.11,0.1,759.7,88.0,UPI,2
+ORD0018,2025-09-30,CUST1197,Office Chair,Furniture,North,Lucknow,1,9852.5,0.0,9852.5,1816.83,Credit Card,2
+ORD0019,2025-08-05,CUST1247,Desk,Furniture,Central,Indore,5,11357.04,0.2,45428.16,313.08,Credit Card,5
+ORD0020,2025-09-22,CUST1116,Webcam,Accessories,South,Hyderabad,6,3394.56,0.1,18330.62,3918.27,UPI,2
+ORD0021,2025-04-23,CUST1002,Tablet,Electronics,North,Lucknow,3,20314.04,0.2,48753.7,8164.85,UPI,1
+ORD0022,2025-05-23,CUST1172,Tablet,Electronics,North,Lucknow,1,23265.92,0.0,23265.92,6448.59,Net Banking,2
+ORD0023,2025-05-05,CUST1201,Backpack,Bags,South,Bengaluru,6,1925.43,0.2,9242.06,748.11,Net Banking,4
+ORD0024,2025-08-28,CUST1222,Tablet,Electronics,North,Chandigarh,1,22559.62,0.1,20303.66,4405.54,UPI,1
+ORD0025,2025-04-08,CUST1138,Laptop,Electronics,East,Bhubaneswar,6,53585.86,0.0,321515.16,106186.4,Net Banking,2
+ORD0026,2025-10-09,CUST1026,Headphones,Accessories,South,Chennai,3,2485.05,0.0,7455.15,2172.24,UPI,5
+ORD0027,2025-07-25,CUST1232,Laptop,Electronics,North,Lucknow,2,52063.54,0.15,88508.02,13924.74,UPI,2
+ORD0028,2025-12-23,CUST1246,Headphones,Accessories,North,Delhi,4,2406.08,0.15,8180.67,1664.53,Cash on Delivery,4
+ORD0029,2025-10-05,CUST1016,Monitor,Electronics,South,Hyderabad,3,17186.98,0.0,51560.94,13620.54,Debit Card,1
+ORD0030,2025-09-18,CUST1021,Laptop,Electronics,Central,Indore,5,58690.61,0.2,234762.44,43581.73,Credit Card,1
+ORD0031,2025-10-19,CUST1064,Office Chair,Furniture,North,Lucknow,6,10049.97,0.15,51254.85,12423.13,Cash on Delivery,5
+ORD0032,2025-05-14,CUST1053,Laptop,Electronics,North,Lucknow,4,56384.88,0.2,180431.62,17015.49,Debit Card,2
+ORD0033,2025-02-07,CUST1003,Keyboard,Accessories,East,Bhubaneswar,2,1849.45,0.1,3329.01,697.45,Net Banking,5
+ORD0034,2025-06-28,CUST1226,Office Chair,Furniture,North,Chandigarh,1,9557.2,0.2,7645.76,1213.38,UPI,2
+ORD0035,2025-11-10,CUST1207,Mouse,Accessories,West,Pune,2,891.1,0.2,1425.76,70.03,Cash on Delivery,1
+ORD0036,2025-03-10,CUST1068,Desk,Furniture,Central,Nagpur,3,12828.97,0.0,38486.91,7397.72,UPI,1
+ORD0037,2025-06-25,CUST1053,Webcam,Accessories,Central,Nagpur,2,3372.51,0.2,5396.02,929.97,Debit Card,5
+ORD0038,2025-01-23,CUST1001,Printer,Electronics,West,Mumbai,1,11217.21,0.15,9534.63,719.37,Debit Card,2
+ORD0039,2025-10-15,CUST1003,Desk,Furniture,West,Mumbai,2,12463.16,0.2,19941.06,968.8,UPI,1
+ORD0040,2025-03-17,CUST1111,Webcam,Accessories,South,Bengaluru,5,3240.18,0.1,14580.81,2648.82,Credit Card,1
+ORD0041,2025-12-08,CUST1027,Keyboard,Accessories,East,Kolkata,1,1914.89,0.05,1819.15,370.7,Debit Card,5
+ORD0042,2025-01-13,CUST1046,Headphones,Accessories,South,Bengaluru,2,2645.84,0.05,5027.1,813.42,Debit Card,4
+ORD0043,2025-01-20,CUST1220,Desk,Furniture,South,Kochi,3,11345.66,0.0,34036.98,10329.94,Net Banking,2
+ORD0044,2025-12-04,CUST1050,Tablet,Electronics,Central,Bhopal,3,21314.27,0.05,60745.67,18250.26,Net Banking,3
+ORD0045,2025-10-02,CUST1085,Keyboard,Accessories,North,Lucknow,3,1757.13,0.2,4217.11,527.48,UPI,1
+ORD0046,2025-11-02,CUST1112,Keyboard,Accessories,South,Chennai,5,1933.21,0.1,8699.44,2632.53,Debit Card,3
+ORD0047,2025-01-23,CUST1182,Headphones,Accessories,Central,Varanasi,1,2454.08,0.2,1963.26,348.44,Net Banking,1
+ORD0048,2025-02-05,CUST1243,Backpack,Bags,Central,Nagpur,6,1863.2,0.05,10620.24,2874.8,Debit Card,5
+ORD0049,2025-07-29,CUST1084,Mouse,Accessories,North,Chandigarh,6,957.61,0.2,4596.53,678.81,Net Banking,3
+ORD0050,2025-03-31,CUST1158,Backpack,Bags,South,Bengaluru,2,1777.09,0.15,3021.05,336.0,Cash on Delivery,3
+ORD0051,2025-10-24,CUST1156,Headphones,Accessories,Central,Nagpur,1,2421.55,0.05,2300.47,590.91,Debit Card,4
+ORD0052,2025-03-28,CUST1169,Printer,Electronics,Central,Bhopal,6,11450.31,0.15,58396.58,4895.21,UPI,3
+ORD0053,2025-04-26,CUST1207,Backpack,Bags,West,Ahmedabad,1,1891.71,0.05,1797.12,369.71,Credit Card,2
+ORD0054,2025-02-07,CUST1117,Laptop,Electronics,North,Jaipur,2,59258.64,0.2,94813.82,1191.39,Net Banking,5
+ORD0055,2025-01-03,CUST1229,Tablet,Electronics,East,Bhubaneswar,4,21646.78,0.05,82257.76,17212.51,UPI,4
+ORD0056,2025-03-04,CUST1117,Tablet,Electronics,South,Chennai,6,22063.21,0.0,132379.26,35546.33,Credit Card,4
+ORD0057,2025-09-16,CUST1110,Desk,Furniture,Central,Varanasi,5,12183.27,0.15,51778.9,6546.65,Cash on Delivery,4
+ORD0058,2025-05-22,CUST1197,Monitor,Electronics,Central,Indore,4,17306.47,0.05,65764.59,11216.49,Cash on Delivery,4
+ORD0059,2025-06-21,CUST1082,Desk,Furniture,South,Kochi,3,11884.56,0.1,32088.31,8310.92,Cash on Delivery,1
+ORD0060,2025-02-02,CUST1107,Monitor,Electronics,South,Bengaluru,2,17663.14,0.05,33559.97,6666.64,Net Banking,3
+ORD0061,2025-10-27,CUST1243,Backpack,Bags,Central,Bhopal,4,1673.93,0.15,5691.36,1018.45,UPI,5
+ORD0062,2025-08-03,CUST1138,Headphones,Accessories,Central,Indore,1,2677.1,0.1,2409.39,346.16,Cash on Delivery,5
+ORD0063,2025-06-22,CUST1172,Tablet,Electronics,Central,Indore,2,21200.73,0.15,36041.24,9506.2,Net Banking,2
+ORD0064,2025-12-06,CUST1007,Printer,Electronics,South,Bengaluru,5,12065.52,0.15,51278.46,6733.85,UPI,4
+ORD0065,2025-08-21,CUST1084,Monitor,Electronics,Central,Bhopal,2,16704.82,0.15,28398.19,5496.87,Debit Card,4
+ORD0066,2025-10-04,CUST1014,Keyboard,Accessories,East,Patna,3,1896.45,0.15,4835.95,1286.5,Debit Card,2
+ORD0067,2025-04-13,CUST1215,Desk,Furniture,North,Lucknow,6,11117.3,0.0,66703.8,12678.9,UPI,5
+ORD0068,2025-04-22,CUST1120,Monitor,Electronics,South,Kochi,2,17923.86,0.0,35847.72,9578.73,Debit Card,3
+ORD0069,2025-06-09,CUST1148,Monitor,Electronics,North,Chandigarh,2,19338.4,0.0,38676.8,10220.85,Net Banking,4
+ORD0070,2025-06-04,CUST1218,Webcam,Accessories,South,Hyderabad,1,3551.57,0.05,3373.99,1099.63,Cash on Delivery,1
+ORD0071,2025-11-28,CUST1088,Office Chair,Furniture,North,Jaipur,3,9549.77,0.1,25784.38,7626.7,UPI,4
+ORD0072,2025-08-11,CUST1046,Printer,Electronics,North,Chandigarh,4,12884.71,0.15,43808.01,4563.16,Cash on Delivery,3
+ORD0073,2025-05-06,CUST1213,Office Chair,Furniture,Central,Nagpur,4,9446.61,0.2,30229.15,4773.21,UPI,3
+ORD0074,2025-09-11,CUST1218,Printer,Electronics,South,Kochi,4,12134.11,0.15,41255.97,7897.88,Debit Card,2
+ORD0075,2025-11-02,CUST1180,Printer,Electronics,South,Hyderabad,3,12571.84,0.1,33943.97,8450.85,Debit Card,5
+ORD0076,2025-05-04,CUST1177,Laptop,Electronics,Central,Varanasi,2,51353.39,0.15,87300.76,13586.5,Net Banking,4
+ORD0077,2025-06-06,CUST1170,Printer,Electronics,North,Delhi,1,11604.93,0.15,9864.19,1063.51,Cash on Delivery,3
+ORD0078,2025-12-26,CUST1117,Printer,Electronics,Central,Nagpur,5,11700.01,0.2,46800.04,6659.75,Debit Card,3
+ORD0079,2025-10-02,CUST1244,Keyboard,Accessories,South,Kochi,1,1863.73,0.1,1677.36,477.28,Credit Card,2
+ORD0080,2025-02-21,CUST1214,Tablet,Electronics,Central,Indore,3,22790.54,0.2,54697.3,4146.19,Credit Card,3
+ORD0081,2025-01-24,CUST1250,Tablet,Electronics,East,Kolkata,2,21303.98,0.2,34086.37,6590.75,UPI,5
+ORD0082,2025-01-07,CUST1147,Keyboard,Accessories,South,Bengaluru,6,1906.12,0.15,9721.21,2395.79,Debit Card,4
+ORD0083,2025-09-02,CUST1030,Printer,Electronics,Central,Bhopal,3,11393.98,0.0,34181.94,11263.1,UPI,4
+ORD0084,2025-10-16,CUST1243,Printer,Electronics,North,Lucknow,5,12248.54,0.0,61242.7,21413.79,Debit Card,1
+ORD0085,2025-11-13,CUST1058,Tablet,Electronics,North,Chandigarh,5,22930.84,0.2,91723.36,6968.07,Cash on Delivery,4
+ORD0086,2025-11-14,CUST1016,Printer,Electronics,Central,Bhopal,3,12691.52,0.15,32363.38,6431.71,Cash on Delivery,1
+ORD0087,2025-10-10,CUST1020,Tablet,Electronics,South,Hyderabad,3,22564.71,0.05,64309.42,19091.57,Credit Card,1
+ORD0088,2025-05-28,CUST1181,Headphones,Accessories,Central,Bhopal,6,2537.52,0.1,13702.61,4163.65,Debit Card,4
+ORD0089,2025-04-12,CUST1109,Smartphone,Electronics,South,Kochi,3,29289.47,0.2,70294.73,4196.9,UPI,5
+ORD0090,2025-06-07,CUST1153,Tablet,Electronics,South,Bengaluru,3,23149.74,0.0,69449.22,25562.34,Cash on Delivery,3
+ORD0091,2025-09-14,CUST1139,Printer,Electronics,North,Chandigarh,4,12362.26,0.15,42031.68,2050.39,Net Banking,4
+ORD0092,2025-02-16,CUST1059,Smartphone,Electronics,North,Jaipur,4,29050.71,0.2,92962.27,15097.82,Cash on Delivery,5
+ORD0093,2025-11-30,CUST1114,Laptop,Electronics,West,Mumbai,5,50954.04,0.05,242031.69,60100.25,Debit Card,2
+ORD0094,2025-07-29,CUST1086,Office Chair,Furniture,East,Patna,6,9977.65,0.0,59865.9,17121.52,Debit Card,1
+ORD0095,2025-07-25,CUST1209,Monitor,Electronics,West,Ahmedabad,4,18557.78,0.1,66808.01,10947.85,Cash on Delivery,1
+ORD0096,2025-07-26,CUST1222,Printer,Electronics,North,Lucknow,3,11524.61,0.0,34573.83,6429.46,Cash on Delivery,1
+ORD0097,2025-11-15,CUST1194,Desk,Furniture,Central,Nagpur,4,11833.44,0.05,44967.07,10712.2,Net Banking,4
+ORD0098,2025-12-24,CUST1125,Laptop,Electronics,South,Hyderabad,3,55433.13,0.1,149669.45,31992.14,UPI,1
+ORD0099,2025-07-28,CUST1024,Desk,Furniture,South,Kochi,6,11344.09,0.2,54451.63,12065.47,Credit Card,1
+ORD0100,2025-05-30,CUST1131,Printer,Electronics,North,Chandigarh,6,12637.71,0.15,64452.32,3296.12,Debit Card,4
+ORD0101,2025-11-03,CUST1131,Printer,Electronics,Central,Indore,2,11917.03,0.05,22642.36,6036.76,Credit Card,1
+ORD0102,2025-01-02,CUST1073,Keyboard,Accessories,East,Patna,3,1925.06,0.2,4620.14,730.93,Debit Card,5
+ORD0103,2025-10-10,CUST1196,Office Chair,Furniture,Central,Indore,2,9418.75,0.15,16011.88,3032.38,Cash on Delivery,4
+ORD0104,2025-04-30,CUST1220,Printer,Electronics,West,Ahmedabad,2,12923.09,0.05,24553.87,5573.48,Net Banking,1
+ORD0105,2025-12-06,CUST1203,Mouse,Accessories,Central,Indore,6,959.53,0.15,4893.6,879.6,Credit Card,4
+ORD0106,2025-08-14,CUST1026,Laptop,Electronics,South,Bengaluru,5,59095.11,0.1,265927.99,31338.11,Cash on Delivery,4
+ORD0107,2025-05-16,CUST1087,Laptop,Electronics,South,Bengaluru,4,58264.21,0.05,221404.0,73420.91,Cash on Delivery,4
+ORD0108,2025-06-12,CUST1161,Desk,Furniture,North,Lucknow,3,12676.5,0.2,30423.6,3955.0,Net Banking,5
+ORD0109,2025-02-16,CUST1112,Laptop,Electronics,North,Lucknow,2,56154.22,0.1,101077.6,9042.5,UPI,1
+ORD0110,2025-01-29,CUST1076,Printer,Electronics,South,Chennai,6,11614.97,0.0,69689.82,25841.11,Debit Card,3
+ORD0111,2025-04-03,CUST1044,Headphones,Accessories,South,Bengaluru,2,2512.47,0.2,4019.95,219.29,Credit Card,1
+ORD0112,2025-03-15,CUST1060,Office Chair,Furniture,East,Bhubaneswar,5,9778.36,0.15,41558.03,2319.14,Net Banking,3
+ORD0113,2025-12-13,CUST1140,Printer,Electronics,West,Mumbai,6,11058.04,0.15,56396.0,3301.36,Credit Card,1
+ORD0114,2025-08-22,CUST1217,Printer,Electronics,East,Kolkata,5,11614.38,0.15,49361.11,5338.97,Debit Card,2
+ORD0115,2025-06-01,CUST1180,Headphones,Accessories,Central,Indore,1,2394.88,0.2,1915.9,259.14,Debit Card,1
+ORD0116,2025-09-12,CUST1214,Desk,Furniture,East,Bhubaneswar,3,11055.55,0.0,33166.65,6562.9,Debit Card,2
+ORD0117,2025-12-04,CUST1175,Office Chair,Furniture,East,Kolkata,2,9707.66,0.2,15532.26,2521.56,Credit Card,1
+ORD0118,2025-03-09,CUST1024,Desk,Furniture,North,Jaipur,3,12554.13,0.0,37662.39,9946.08,Debit Card,3
+ORD0119,2025-07-07,CUST1136,Webcam,Accessories,East,Patna,2,3332.45,0.2,5331.92,31.38,Cash on Delivery,3
+ORD0120,2025-06-23,CUST1206,Monitor,Electronics,West,Mumbai,4,19346.07,0.1,69645.85,10113.2,UPI,4
+ORD0121,2025-10-13,CUST1094,Smartphone,Electronics,South,Bengaluru,2,29613.43,0.15,50342.83,2164.51,UPI,4
+ORD0122,2025-12-11,CUST1068,Laptop,Electronics,West,Mumbai,5,51687.58,0.1,232594.11,37585.74,Cash on Delivery,4
+ORD0123,2025-10-15,CUST1084,Desk,Furniture,East,Kolkata,1,12335.69,0.15,10485.34,2775.47,Cash on Delivery,2
+ORD0124,2025-03-01,CUST1036,Desk,Furniture,North,Lucknow,6,12621.8,0.1,68157.72,11371.14,UPI,1
+ORD0125,2025-08-21,CUST1095,Keyboard,Accessories,Central,Indore,1,1683.99,0.2,1347.19,257.42,Cash on Delivery,4
+ORD0126,2025-05-24,CUST1009,Office Chair,Furniture,South,Bengaluru,4,9735.48,0.15,33100.63,4161.7,Debit Card,2
+ORD0127,2025-07-08,CUST1140,Printer,Electronics,Central,Bhopal,2,12682.46,0.0,25364.92,4662.44,Debit Card,1
+ORD0128,2025-04-19,CUST1165,Headphones,Accessories,West,Mumbai,2,2687.28,0.15,4568.38,1137.61,Cash on Delivery,1
+ORD0129,2025-10-11,CUST1054,Laptop,Electronics,West,Ahmedabad,2,59301.62,0.2,94882.59,16480.97,Cash on Delivery,2
+ORD0130,2025-03-16,CUST1034,Tablet,Electronics,West,Ahmedabad,2,23016.03,0.2,36825.65,8259.67,Cash on Delivery,3
+ORD0131,2025-05-02,CUST1151,Monitor,Electronics,North,Chandigarh,6,19055.37,0.05,108615.61,37389.83,Debit Card,1
+ORD0132,2025-02-02,CUST1122,Monitor,Electronics,West,Mumbai,1,16925.06,0.15,14386.3,2111.96,Net Banking,3
+ORD0133,2025-12-04,CUST1134,Backpack,Bags,North,Chandigarh,4,1801.11,0.2,5763.55,1234.31,Debit Card,4
+ORD0134,2025-02-25,CUST1126,Desk,Furniture,North,Delhi,1,12957.29,0.15,11013.7,1875.51,Net Banking,1
+ORD0135,2025-11-21,CUST1150,Smartphone,Electronics,West,Ahmedabad,5,26424.54,0.05,125516.57,36333.32,Cash on Delivery,3
+ORD0136,2025-12-26,CUST1030,Headphones,Accessories,Central,Varanasi,3,2481.49,0.2,5955.58,699.49,Cash on Delivery,2
+ORD0137,2025-02-18,CUST1081,Headphones,Accessories,Central,Bhopal,2,2465.53,0.15,4191.4,740.91,Net Banking,3
+ORD0138,2025-02-13,CUST1024,Desk,Furniture,West,Mumbai,3,12870.9,0.15,32820.79,8362.48,Net Banking,1
+ORD0139,2025-10-15,CUST1085,Webcam,Accessories,East,Kolkata,2,3531.57,0.2,5650.51,-79.99,UPI,4
+ORD0140,2025-06-30,CUST1027,Mouse,Accessories,East,Patna,6,835.41,0.1,4511.21,801.58,Cash on Delivery,5
+ORD0141,2025-10-12,CUST1095,Tablet,Electronics,South,Bengaluru,6,21937.31,0.0,131623.86,40800.4,UPI,3
+ORD0142,2025-11-26,CUST1143,Office Chair,Furniture,South,Kochi,4,10024.64,0.2,32078.85,2297.06,UPI,5
+ORD0143,2025-06-29,CUST1002,Desk,Furniture,West,Mumbai,1,11386.4,0.1,10247.76,1089.59,Credit Card,2
+ORD0144,2025-09-29,CUST1056,Office Chair,Furniture,East,Bhubaneswar,1,8955.65,0.0,8955.65,3238.8,Net Banking,4
+ORD0145,2025-10-18,CUST1153,Printer,Electronics,West,Ahmedabad,2,11750.5,0.1,21150.9,2929.0,UPI,1
+ORD0146,2025-12-05,CUST1109,Monitor,Electronics,South,Chennai,5,16703.32,0.0,83516.6,27191.29,Net Banking,5
+ORD0147,2025-08-09,CUST1029,Printer,Electronics,East,Patna,3,11453.89,0.2,27489.34,5402.91,Debit Card,5
+ORD0148,2025-11-03,CUST1015,Printer,Electronics,Central,Varanasi,6,11632.17,0.05,66303.37,17514.37,UPI,2
+ORD0149,2025-01-04,CUST1128,Keyboard,Accessories,South,Hyderabad,2,1876.08,0.1,3376.94,804.37,Net Banking,2
+ORD0150,2025-12-09,CUST1207,Monitor,Electronics,East,Bhubaneswar,5,18586.57,0.2,74346.28,6343.16,Debit Card,1
+ORD0151,2025-10-22,CUST1110,Headphones,Accessories,North,Jaipur,4,2307.5,0.0,9230.0,1915.94,Cash on Delivery,4
+ORD0152,2025-03-29,CUST1206,Webcam,Accessories,East,Patna,3,3284.5,0.0,9853.5,1840.24,Cash on Delivery,4
+ORD0153,2025-10-29,CUST1103,Webcam,Accessories,East,Kolkata,1,3464.56,0.0,3464.56,1147.94,Cash on Delivery,1
+ORD0154,2025-02-09,CUST1131,Headphones,Accessories,West,Pune,6,2435.81,0.1,13153.37,1814.82,UPI,5
+ORD0155,2025-03-16,CUST1066,Backpack,Bags,South,Hyderabad,3,1757.12,0.05,5007.79,1490.46,Credit Card,2
+ORD0156,2025-10-16,CUST1195,Office Chair,Furniture,South,Bengaluru,6,8854.54,0.15,45158.15,7289.55,Cash on Delivery,4
+ORD0157,2025-08-15,CUST1162,Desk,Furniture,West,Ahmedabad,6,11646.99,0.15,59399.65,15118.45,Debit Card,3
+ORD0158,2025-01-20,CUST1015,Office Chair,Furniture,North,Jaipur,3,9511.15,0.1,25680.1,5354.34,Debit Card,3
+ORD0159,2025-10-11,CUST1245,Smartphone,Electronics,North,Lucknow,5,28421.48,0.15,120791.29,19533.75,UPI,4
+ORD0160,2025-02-01,CUST1116,Office Chair,Furniture,South,Hyderabad,3,9659.61,0.2,23183.06,4341.83,UPI,3
+ORD0161,2025-08-13,CUST1113,Webcam,Accessories,North,Lucknow,5,3581.83,0.0,17909.15,5918.1,Cash on Delivery,5
+ORD0162,2025-06-23,CUST1174,Office Chair,Furniture,South,Chennai,3,9306.74,0.1,25128.2,5654.31,Cash on Delivery,1
+ORD0163,2025-05-26,CUST1065,Desk,Furniture,West,Ahmedabad,1,11673.01,0.2,9338.41,517.4,Cash on Delivery,2
+ORD0164,2025-12-02,CUST1179,Mouse,Accessories,North,Lucknow,5,923.56,0.1,4156.02,1006.47,Net Banking,2
+ORD0165,2025-12-10,CUST1180,Office Chair,Furniture,North,Lucknow,3,9589.56,0.1,25891.81,3376.38,Cash on Delivery,1
+ORD0166,2025-04-20,CUST1088,Desk,Furniture,East,Patna,5,11734.71,0.1,52806.19,12804.14,Net Banking,2
+ORD0167,2025-10-04,CUST1214,Tablet,Electronics,South,Bengaluru,2,20511.62,0.0,41023.24,11423.42,Cash on Delivery,1
+ORD0168,2025-04-03,CUST1213,Desk,Furniture,West,Ahmedabad,5,11291.61,0.15,47989.34,11243.59,Cash on Delivery,2
+ORD0169,2025-11-09,CUST1073,Webcam,Accessories,Central,Bhopal,1,3450.08,0.05,3277.58,469.5,Net Banking,2
+ORD0170,2025-04-10,CUST1095,Backpack,Bags,South,Kochi,3,1934.09,0.15,4931.93,285.5,Cash on Delivery,4
+ORD0171,2025-04-13,CUST1206,Printer,Electronics,West,Pune,4,12005.58,0.15,40818.97,1764.64,Cash on Delivery,2
+ORD0172,2025-02-22,CUST1183,Keyboard,Accessories,North,Jaipur,6,1794.41,0.1,9689.81,1820.52,Cash on Delivery,1
+ORD0173,2025-08-12,CUST1024,Keyboard,Accessories,North,Lucknow,2,1734.56,0.2,2775.3,522.21,Credit Card,4
+ORD0174,2025-07-17,CUST1021,Mouse,Accessories,North,Delhi,4,835.67,0.2,2674.14,351.67,Debit Card,2
+ORD0175,2025-03-12,CUST1010,Laptop,Electronics,West,Ahmedabad,1,57984.75,0.1,52186.28,7058.13,Debit Card,4
+ORD0176,2025-02-10,CUST1005,Webcam,Accessories,South,Bengaluru,6,3482.7,0.2,16716.96,3739.37,Debit Card,2
+ORD0177,2025-05-28,CUST1061,Monitor,Electronics,Central,Nagpur,6,18313.57,0.15,93399.21,22829.26,Debit Card,1
+ORD0178,2025-02-26,CUST1215,Laptop,Electronics,South,Kochi,4,56222.78,0.2,179912.9,19920.25,Net Banking,5
+ORD0179,2025-05-30,CUST1110,Backpack,Bags,North,Delhi,6,1804.43,0.05,10285.25,2016.89,UPI,5
+ORD0180,2025-07-04,CUST1018,Mouse,Accessories,South,Kochi,5,887.99,0.0,4439.95,1222.33,Cash on Delivery,5
+ORD0181,2025-07-18,CUST1096,Backpack,Bags,Central,Varanasi,5,1661.86,0.15,7062.9,1838.79,Debit Card,1
+ORD0182,2025-06-20,CUST1035,Mouse,Accessories,North,Lucknow,3,862.72,0.0,2588.16,584.15,UPI,3
+ORD0183,2025-09-03,CUST1162,Backpack,Bags,West,Ahmedabad,6,1706.43,0.15,8702.79,346.43,Credit Card,2
+ORD0184,2025-01-22,CUST1081,Smartphone,Electronics,Central,Bhopal,1,27074.62,0.0,27074.62,6004.56,Debit Card,5
+ORD0185,2025-01-25,CUST1222,Headphones,Accessories,Central,Nagpur,4,2401.33,0.05,9125.05,2620.11,Debit Card,3
+ORD0186,2025-07-17,CUST1087,Smartphone,Electronics,East,Kolkata,4,29744.9,0.15,101132.66,6076.59,Credit Card,4
+ORD0187,2025-02-12,CUST1187,Webcam,Accessories,Central,Indore,3,3737.61,0.2,8970.26,1420.17,Net Banking,1
+ORD0188,2025-12-05,CUST1076,Headphones,Accessories,South,Chennai,5,2417.51,0.0,12087.55,4399.7,Debit Card,4
+ORD0189,2025-06-30,CUST1158,Office Chair,Furniture,East,Patna,2,9788.44,0.1,17619.19,3730.84,Net Banking,3
+ORD0190,2025-12-14,CUST1041,Desk,Furniture,North,Jaipur,1,12328.67,0.15,10479.37,1939.77,UPI,2
+ORD0191,2025-07-07,CUST1093,Office Chair,Furniture,Central,Bhopal,1,8931.87,0.05,8485.28,1556.8,Net Banking,5
+ORD0192,2025-02-09,CUST1147,Laptop,Electronics,South,Bengaluru,6,54559.32,0.1,294620.33,67303.5,Credit Card,5
+ORD0193,2025-01-14,CUST1189,Mouse,Accessories,East,Bhubaneswar,3,921.54,0.05,2626.39,381.23,Credit Card,4
+ORD0194,2025-04-20,CUST1157,Backpack,Bags,East,Bhubaneswar,5,1689.92,0.1,7604.64,1176.12,Debit Card,4
+ORD0195,2025-08-16,CUST1023,Tablet,Electronics,North,Chandigarh,2,23241.95,0.15,39511.32,9086.15,Debit Card,3
+ORD0196,2025-12-31,CUST1182,Webcam,Accessories,North,Lucknow,5,3523.62,0.1,15856.29,1933.19,Credit Card,3
+ORD0197,2025-09-10,CUST1007,Backpack,Bags,South,Kochi,1,1939.72,0.05,1842.73,548.26,Debit Card,5
+ORD0198,2025-02-14,CUST1017,Office Chair,Furniture,East,Kolkata,4,9961.57,0.2,31877.02,6138.15,Debit Card,4
+ORD0199,2025-02-07,CUST1033,Webcam,Accessories,Central,Indore,5,3450.05,0.15,14662.71,1126.99,Debit Card,1
+ORD0200,2025-10-10,CUST1164,Printer,Electronics,Central,Bhopal,6,12033.33,0.05,68589.98,11148.25,Cash on Delivery,2
+ORD0201,2025-09-23,CUST1040,Monitor,Electronics,East,Patna,5,19182.85,0.0,95914.25,20498.97,Debit Card,2
+ORD0202,2025-02-10,CUST1065,Monitor,Electronics,West,Ahmedabad,6,17209.35,0.2,82604.88,104.79,Credit Card,5
+ORD0203,2025-11-25,CUST1044,Keyboard,Accessories,South,Bengaluru,6,1743.21,0.2,8367.41,1687.23,Cash on Delivery,5
+ORD0204,2025-10-16,CUST1011,Monitor,Electronics,South,Chennai,6,18358.5,0.2,88120.8,12389.35,UPI,1
+ORD0205,2025-11-24,CUST1008,Laptop,Electronics,West,Mumbai,6,52455.11,0.2,251784.53,30428.99,Net Banking,5
+ORD0206,2025-02-07,CUST1177,Keyboard,Accessories,West,Pune,4,1726.52,0.15,5870.17,1177.58,UPI,2
+ORD0207,2025-06-10,CUST1221,Printer,Electronics,East,Patna,4,11931.73,0.1,42954.23,7572.73,Debit Card,3
+ORD0208,2025-08-27,CUST1032,Headphones,Accessories,South,Bengaluru,3,2505.99,0.0,7517.97,2377.01,Debit Card,4
+ORD0209,2025-08-03,CUST1064,Tablet,Electronics,South,Bengaluru,1,20418.13,0.15,17355.41,1167.25,Credit Card,3
+ORD0210,2025-08-28,CUST1128,Office Chair,Furniture,West,Ahmedabad,2,9899.94,0.15,16829.9,609.96,Debit Card,4
+ORD0211,2025-06-30,CUST1013,Laptop,Electronics,North,Lucknow,4,55047.91,0.05,209182.06,63188.64,UPI,3
+ORD0212,2025-05-16,CUST1187,Printer,Electronics,Central,Indore,3,12070.45,0.0,36211.35,10639.42,Debit Card,4
+ORD0213,2025-10-11,CUST1074,Mouse,Accessories,North,Jaipur,4,835.37,0.2,2673.18,471.38,UPI,4
+ORD0214,2025-03-02,CUST1033,Backpack,Bags,Central,Bhopal,5,1736.56,0.2,6946.24,381.35,UPI,4
+ORD0215,2025-09-18,CUST1103,Mouse,Accessories,West,Ahmedabad,5,963.21,0.05,4575.25,1397.56,Cash on Delivery,1
+ORD0216,2025-03-18,CUST1156,Laptop,Electronics,North,Jaipur,2,56879.61,0.15,96695.34,14348.85,Cash on Delivery,2
+ORD0217,2025-06-03,CUST1152,Mouse,Accessories,West,Ahmedabad,2,884.59,0.2,1415.34,56.85,Debit Card,5
+ORD0218,2025-01-09,CUST1095,Backpack,Bags,Central,Nagpur,4,1860.12,0.1,6696.43,1376.65,Debit Card,1
+ORD0219,2025-05-16,CUST1248,Headphones,Accessories,West,Pune,6,2648.84,0.0,15893.04,4142.01,Cash on Delivery,5
+ORD0220,2025-11-14,CUST1199,Tablet,Electronics,North,Jaipur,5,21931.18,0.2,87724.72,5942.8,Net Banking,2
+ORD0221,2025-08-14,CUST1081,Desk,Furniture,South,Kochi,1,12139.33,0.0,12139.33,4149.75,Net Banking,2
+ORD0222,2025-02-01,CUST1181,Headphones,Accessories,South,Hyderabad,4,2500.73,0.2,8002.34,-41.05,Credit Card,5
+ORD0223,2025-06-10,CUST1245,Tablet,Electronics,Central,Nagpur,3,23753.39,0.15,60571.14,8900.72,Credit Card,4
+ORD0224,2025-04-09,CUST1246,Backpack,Bags,West,Ahmedabad,5,1758.03,0.1,7911.14,1388.71,Credit Card,3
+ORD0225,2025-12-27,CUST1054,Backpack,Bags,West,Pune,2,1927.15,0.1,3468.87,484.74,Net Banking,3
+ORD0226,2025-10-21,CUST1174,Printer,Electronics,East,Kolkata,5,12832.7,0.1,57747.15,14272.67,Cash on Delivery,4
+ORD0227,2025-02-10,CUST1089,Headphones,Accessories,East,Kolkata,2,2416.18,0.1,4349.12,429.77,Net Banking,3
+ORD0228,2025-10-15,CUST1179,Webcam,Accessories,Central,Indore,2,3333.16,0.2,5333.06,838.45,Debit Card,2
+ORD0229,2025-04-30,CUST1014,Smartphone,Electronics,South,Kochi,2,25987.43,0.2,41579.89,7009.63,UPI,4
+ORD0230,2025-10-09,CUST1238,Mouse,Accessories,Central,Indore,1,926.09,0.05,879.79,304.65,Credit Card,4
+ORD0231,2025-11-27,CUST1016,Desk,Furniture,Central,Indore,4,12289.03,0.1,44240.51,10606.24,UPI,5
+ORD0232,2025-03-31,CUST1107,Tablet,Electronics,Central,Nagpur,6,22785.37,0.0,136712.22,26980.71,Credit Card,1
+ORD0233,2025-01-05,CUST1077,Headphones,Accessories,Central,Indore,2,2674.64,0.1,4814.35,559.81,Cash on Delivery,5
+ORD0234,2025-03-10,CUST1218,Smartphone,Electronics,West,Ahmedabad,3,27795.48,0.2,66709.15,6265.35,Cash on Delivery,4
+ORD0235,2025-04-06,CUST1004,Keyboard,Accessories,South,Hyderabad,1,1751.24,0.15,1488.55,175.72,Debit Card,3
+ORD0236,2025-09-21,CUST1084,Office Chair,Furniture,South,Hyderabad,2,9668.65,0.15,16436.7,1249.22,UPI,4
+ORD0237,2025-05-08,CUST1002,Desk,Furniture,North,Chandigarh,2,12924.84,0.15,21972.23,4272.43,Debit Card,4
+ORD0238,2025-10-21,CUST1003,Tablet,Electronics,Central,Bhopal,3,23598.2,0.1,63715.14,11575.47,Debit Card,3
+ORD0239,2025-07-27,CUST1176,Webcam,Accessories,South,Kochi,1,3593.96,0.15,3054.87,606.08,Cash on Delivery,3
+ORD0240,2025-04-24,CUST1057,Webcam,Accessories,North,Chandigarh,6,3733.03,0.1,20158.36,4625.03,Credit Card,4
+ORD0241,2025-10-09,CUST1234,Monitor,Electronics,Central,Bhopal,6,19407.85,0.1,104802.39,22920.38,Net Banking,5
+ORD0242,2025-02-11,CUST1135,Desk,Furniture,South,Hyderabad,2,12346.26,0.2,19754.02,132.68,Net Banking,5
+ORD0243,2025-10-08,CUST1232,Webcam,Accessories,East,Kolkata,1,3733.66,0.0,3733.66,1372.67,Cash on Delivery,2
+ORD0244,2025-12-15,CUST1053,Office Chair,Furniture,Central,Nagpur,2,8990.1,0.2,14384.16,1647.56,Cash on Delivery,4
+ORD0245,2025-08-01,CUST1117,Smartphone,Electronics,Central,Varanasi,4,29382.94,0.15,99902.0,23930.78,Cash on Delivery,1
+ORD0246,2025-01-02,CUST1191,Backpack,Bags,Central,Bhopal,6,1888.39,0.0,11330.34,3408.28,Credit Card,5
+ORD0247,2025-01-31,CUST1240,Smartphone,Electronics,North,Jaipur,4,27303.49,0.0,109213.96,29680.78,UPI,4
+ORD0248,2025-11-27,CUST1247,Laptop,Electronics,West,Pune,4,52183.84,0.05,198298.59,36911.6,Net Banking,3
+ORD0249,2025-06-28,CUST1031,Headphones,Accessories,Central,Bhopal,4,2450.26,0.2,7840.83,1503.5,Credit Card,5
+ORD0250,2025-01-12,CUST1077,Headphones,Accessories,Central,Varanasi,2,2591.14,0.05,4923.17,844.9,Net Banking,5
+ORD0251,2025-03-21,CUST1071,Headphones,Accessories,Central,Nagpur,4,2629.34,0.05,9991.49,2501.81,Credit Card,1
+ORD0252,2025-02-04,CUST1026,Laptop,Electronics,East,Patna,5,57341.27,0.0,286706.35,95148.3,Cash on Delivery,1
+ORD0253,2025-10-04,CUST1056,Printer,Electronics,North,Jaipur,2,12461.84,0.15,21185.13,3544.33,UPI,2
+ORD0254,2025-11-03,CUST1198,Backpack,Bags,West,Pune,2,1890.95,0.2,3025.52,439.53,Debit Card,2
+ORD0255,2025-02-01,CUST1143,Keyboard,Accessories,South,Bengaluru,6,1806.12,0.15,9211.21,1841.15,Cash on Delivery,2
+ORD0256,2025-12-10,CUST1098,Desk,Furniture,East,Patna,5,11991.59,0.1,53962.15,5497.1,Cash on Delivery,3
+ORD0257,2025-10-03,CUST1122,Webcam,Accessories,East,Patna,4,3303.56,0.15,11232.1,2553.31,Credit Card,2
+ORD0258,2025-08-02,CUST1143,Keyboard,Accessories,South,Bengaluru,4,1919.45,0.2,6142.24,748.31,Cash on Delivery,2
+ORD0259,2025-07-09,CUST1024,Headphones,Accessories,South,Kochi,3,2381.33,0.0,7143.99,1397.04,Cash on Delivery,2
+ORD0260,2025-02-07,CUST1049,Laptop,Electronics,West,Mumbai,4,56528.31,0.2,180890.59,38911.94,Cash on Delivery,5
+ORD0261,2025-01-08,CUST1055,Tablet,Electronics,Central,Indore,2,23300.55,0.1,41940.99,10222.53,Credit Card,1
+ORD0262,2025-05-03,CUST1142,Webcam,Accessories,Central,Indore,2,3609.55,0.05,6858.15,1809.64,Debit Card,3
+ORD0263,2025-09-20,CUST1226,Headphones,Accessories,Central,Bhopal,5,2559.49,0.1,11517.7,2913.82,Net Banking,4
+ORD0264,2025-01-24,CUST1145,Smartphone,Electronics,Central,Indore,3,29856.2,0.1,80611.74,19473.61,Credit Card,2
+ORD0265,2025-06-01,CUST1040,Laptop,Electronics,West,Mumbai,5,58825.87,0.2,235303.48,10587.95,Credit Card,3
+ORD0266,2025-12-17,CUST1087,Tablet,Electronics,East,Bhubaneswar,5,23173.44,0.15,98487.12,13889.17,Debit Card,4
+ORD0267,2025-10-07,CUST1126,Webcam,Accessories,Central,Indore,4,3314.21,0.1,11931.16,3263.13,Credit Card,5
+ORD0268,2025-12-09,CUST1013,Desk,Furniture,North,Jaipur,5,11104.94,0.0,55524.7,10603.13,UPI,4
+ORD0269,2025-08-22,CUST1096,Monitor,Electronics,South,Kochi,1,18596.65,0.0,18596.65,6253.24,UPI,5
+ORD0270,2025-07-30,CUST1004,Desk,Furniture,Central,Indore,6,11976.68,0.0,71860.08,19657.86,UPI,5
+ORD0271,2025-12-24,CUST1173,Webcam,Accessories,West,Mumbai,5,3767.39,0.0,18836.95,5266.0,Net Banking,2
+ORD0272,2025-05-10,CUST1209,Smartphone,Electronics,North,Chandigarh,5,26427.06,0.05,125528.54,27225.67,Debit Card,3
+ORD0273,2025-12-23,CUST1058,Headphones,Accessories,North,Lucknow,3,2683.72,0.15,6843.49,941.99,Debit Card,1
+ORD0274,2025-01-29,CUST1164,Desk,Furniture,North,Jaipur,1,11818.13,0.15,10045.41,1411.79,UPI,2
+ORD0275,2025-02-18,CUST1230,Smartphone,Electronics,Central,Indore,4,28649.18,0.1,103137.05,19118.02,Cash on Delivery,1
+ORD0276,2025-02-08,CUST1176,Tablet,Electronics,South,Hyderabad,6,23364.19,0.15,119157.37,24641.88,Debit Card,5
+ORD0277,2025-04-17,CUST1151,Office Chair,Furniture,North,Jaipur,2,10151.72,0.1,18273.1,5621.38,Credit Card,4
+ORD0278,2025-07-19,CUST1174,Smartphone,Electronics,West,Pune,2,28286.53,0.2,45258.45,739.41,Cash on Delivery,3
+ORD0279,2025-06-27,CUST1014,Headphones,Accessories,South,Bengaluru,6,2589.67,0.2,12430.42,480.26,UPI,4
+ORD0280,2025-07-23,CUST1249,Tablet,Electronics,North,Lucknow,3,22370.19,0.2,53688.46,-736.31,Debit Card,1
+ORD0281,2025-07-12,CUST1111,Desk,Furniture,West,Mumbai,4,11981.96,0.1,43135.06,8118.62,Credit Card,5
+ORD0282,2025-02-07,CUST1022,Desk,Furniture,East,Bhubaneswar,1,12522.56,0.1,11270.3,1507.57,Debit Card,2
+ORD0283,2025-01-03,CUST1242,Headphones,Accessories,South,Bengaluru,6,2455.85,0.1,13261.59,3811.82,Debit Card,4
+ORD0284,2025-10-13,CUST1143,Mouse,Accessories,West,Mumbai,1,847.08,0.05,804.73,206.53,Cash on Delivery,4
+ORD0285,2025-06-16,CUST1222,Smartphone,Electronics,North,Delhi,1,27345.54,0.0,27345.54,7126.66,Net Banking,1
+ORD0286,2025-05-05,CUST1147,Keyboard,Accessories,East,Patna,4,1880.4,0.2,6017.28,-7.83,Cash on Delivery,2
+ORD0287,2025-03-16,CUST1017,Desk,Furniture,East,Bhubaneswar,2,11306.57,0.1,20351.83,5117.78,Credit Card,4
+ORD0288,2025-05-07,CUST1185,Keyboard,Accessories,East,Patna,3,1795.46,0.0,5386.38,1657.79,Net Banking,5
+ORD0289,2025-07-22,CUST1086,Office Chair,Furniture,South,Hyderabad,4,8902.6,0.1,32049.36,9922.71,Cash on Delivery,4
+ORD0290,2025-06-14,CUST1155,Mouse,Accessories,Central,Bhopal,3,890.01,0.2,2136.02,407.91,Credit Card,4
+ORD0291,2025-11-21,CUST1126,Mouse,Accessories,South,Chennai,4,967.5,0.1,3483.0,514.81,Cash on Delivery,2
+ORD0292,2025-10-16,CUST1052,Mouse,Accessories,East,Bhubaneswar,3,945.58,0.15,2411.23,445.36,Cash on Delivery,5
+ORD0293,2025-04-18,CUST1113,Monitor,Electronics,Central,Nagpur,1,19304.65,0.15,16408.95,799.31,Debit Card,1
+ORD0294,2025-03-20,CUST1184,Headphones,Accessories,Central,Indore,2,2553.33,0.05,4851.33,1427.13,Net Banking,4
+ORD0295,2025-12-21,CUST1108,Smartphone,Electronics,Central,Bhopal,5,27906.97,0.15,118604.62,17180.44,Cash on Delivery,1
+ORD0296,2025-05-08,CUST1169,Mouse,Accessories,Central,Nagpur,5,919.9,0.0,4599.5,1647.2,Debit Card,2
+ORD0297,2025-06-19,CUST1248,Desk,Furniture,North,Jaipur,5,12928.53,0.15,54946.25,2368.36,Net Banking,1
+ORD0298,2025-12-19,CUST1148,Laptop,Electronics,North,Chandigarh,3,52553.61,0.2,126128.66,10784.2,Credit Card,4
+ORD0299,2025-03-19,CUST1089,Mouse,Accessories,East,Bhubaneswar,4,939.22,0.2,3005.5,157.46,UPI,4
+ORD0300,2025-03-14,CUST1090,Smartphone,Electronics,West,Pune,4,29884.05,0.0,119536.2,42648.86,Debit Card,3
+ORD0301,2025-12-23,CUST1116,Printer,Electronics,South,Hyderabad,5,11967.22,0.15,50860.68,12594.02,Debit Card,1
+ORD0302,2025-12-13,CUST1205,Keyboard,Accessories,North,Jaipur,6,1689.14,0.1,9121.36,1524.34,Credit Card,2
+ORD0303,2025-08-25,CUST1060,Backpack,Bags,South,Chennai,5,1702.12,0.2,6808.48,806.18,Net Banking,2
+ORD0304,2025-08-19,CUST1152,Monitor,Electronics,East,Patna,4,16644.07,0.2,53261.02,225.06,Net Banking,4
+ORD0305,2025-10-02,CUST1048,Laptop,Electronics,South,Hyderabad,2,53049.43,0.0,106098.86,28066.38,Debit Card,3
+ORD0306,2025-11-24,CUST1081,Tablet,Electronics,Central,Bhopal,1,21163.48,0.15,17988.96,2633.95,Cash on Delivery,4
+ORD0307,2025-11-13,CUST1045,Office Chair,Furniture,East,Bhubaneswar,5,8913.63,0.1,40111.33,4942.44,Debit Card,5
+ORD0308,2025-03-01,CUST1047,Office Chair,Furniture,North,Lucknow,6,8943.6,0.0,53661.6,17830.97,Debit Card,2
+ORD0309,2025-04-06,CUST1125,Backpack,Bags,East,Bhubaneswar,4,1827.77,0.2,5848.86,754.92,Cash on Delivery,2
+ORD0310,2025-08-19,CUST1159,Backpack,Bags,South,Chennai,4,1739.18,0.05,6608.88,1858.02,UPI,3
+ORD0311,2025-09-16,CUST1168,Laptop,Electronics,Central,Indore,2,52317.13,0.15,88939.12,3895.97,Net Banking,4
+ORD0312,2025-02-12,CUST1145,Desk,Furniture,Central,Indore,4,12403.47,0.15,42171.8,6561.94,UPI,2
+ORD0313,2025-08-23,CUST1145,Keyboard,Accessories,North,Jaipur,3,1720.75,0.1,4646.03,1271.77,Net Banking,5
+ORD0314,2025-07-07,CUST1139,Backpack,Bags,North,Chandigarh,5,1688.89,0.2,6755.56,129.57,UPI,4
+ORD0315,2025-01-17,CUST1116,Backpack,Bags,South,Hyderabad,4,1685.5,0.05,6404.9,1823.43,Debit Card,3
+ORD0316,2025-10-29,CUST1177,Smartphone,Electronics,Central,Bhopal,1,29234.83,0.05,27773.09,8420.34,Debit Card,5
+ORD0317,2025-01-31,CUST1146,Desk,Furniture,East,Patna,2,12223.01,0.05,23223.72,4089.67,Debit Card,5
+ORD0318,2025-05-17,CUST1244,Keyboard,Accessories,Central,Nagpur,2,1749.21,0.1,3148.58,777.12,Cash on Delivery,1
+ORD0319,2025-03-09,CUST1064,Monitor,Electronics,East,Patna,1,19418.36,0.05,18447.44,3683.95,Credit Card,3
+ORD0320,2025-07-12,CUST1116,Tablet,Electronics,East,Bhubaneswar,4,20740.44,0.1,74665.58,12812.4,UPI,1
+ORD0321,2025-09-07,CUST1084,Headphones,Accessories,Central,Varanasi,6,2411.29,0.1,13020.97,2735.29,Cash on Delivery,1
+ORD0322,2025-10-01,CUST1102,Webcam,Accessories,North,Lucknow,6,3764.4,0.1,20327.76,2484.02,Credit Card,4
+ORD0323,2025-10-23,CUST1034,Tablet,Electronics,Central,Indore,3,21376.49,0.1,57716.52,13624.24,Cash on Delivery,4
+ORD0324,2025-03-22,CUST1113,Mouse,Accessories,North,Jaipur,1,842.34,0.15,715.99,191.0,Net Banking,1
+ORD0325,2025-05-21,CUST1024,Headphones,Accessories,South,Hyderabad,6,2663.76,0.1,14384.3,3966.94,Debit Card,3
+ORD0326,2025-11-17,CUST1079,Smartphone,Electronics,East,Kolkata,6,29809.03,0.05,169911.47,57169.4,Credit Card,4
+ORD0327,2025-03-09,CUST1152,Desk,Furniture,North,Lucknow,6,11222.75,0.05,63969.67,15799.74,Credit Card,5
+ORD0328,2025-08-05,CUST1178,Desk,Furniture,Central,Bhopal,1,11055.48,0.1,9949.93,1288.83,Credit Card,4
+ORD0329,2025-07-08,CUST1226,Smartphone,Electronics,South,Kochi,4,26160.2,0.0,104640.8,37603.69,Debit Card,2
+ORD0330,2025-10-16,CUST1003,Headphones,Accessories,South,Bengaluru,6,2697.18,0.05,15373.93,5119.0,Cash on Delivery,2
+ORD0331,2025-11-12,CUST1176,Printer,Electronics,East,Kolkata,6,11449.07,0.05,65259.7,10030.84,Net Banking,2
+ORD0332,2025-06-29,CUST1247,Smartphone,Electronics,North,Chandigarh,2,29130.96,0.2,46609.54,1980.8,Net Banking,3
+ORD0333,2025-11-04,CUST1185,Monitor,Electronics,South,Kochi,3,18416.51,0.05,52487.05,12117.36,Cash on Delivery,3
+ORD0334,2025-09-18,CUST1049,Webcam,Accessories,North,Delhi,6,3710.46,0.05,21149.62,5041.4,Net Banking,3
+ORD0335,2025-11-23,CUST1153,Desk,Furniture,North,Jaipur,2,11990.18,0.0,23980.36,7956.29,UPI,5
+ORD0336,2025-10-07,CUST1175,Laptop,Electronics,East,Kolkata,3,51761.45,0.2,124227.48,14880.48,Credit Card,4
+ORD0337,2025-01-31,CUST1243,Smartphone,Electronics,North,Delhi,5,26062.55,0.1,117281.48,30864.76,Net Banking,5
+ORD0338,2025-10-02,CUST1138,Keyboard,Accessories,Central,Varanasi,4,1777.99,0.15,6045.17,1518.51,Cash on Delivery,2
+ORD0339,2025-03-21,CUST1138,Keyboard,Accessories,North,Lucknow,3,1678.76,0.05,4784.47,680.59,Debit Card,4
+ORD0340,2025-02-14,CUST1237,Office Chair,Furniture,North,Lucknow,3,9801.99,0.05,27935.67,9363.41,Net Banking,1
+ORD0341,2025-12-29,CUST1036,Printer,Electronics,North,Jaipur,3,12318.87,0.05,35108.78,11312.84,UPI,2
+ORD0342,2025-03-06,CUST1192,Printer,Electronics,East,Kolkata,5,12033.07,0.1,54148.82,14837.23,Debit Card,1
+ORD0343,2025-10-23,CUST1161,Laptop,Electronics,West,Ahmedabad,4,52993.43,0.0,211973.72,69402.33,UPI,4
+ORD0344,2025-03-22,CUST1066,Printer,Electronics,Central,Varanasi,3,11146.44,0.2,26751.46,4903.0,UPI,5
+ORD0345,2025-01-07,CUST1063,Desk,Furniture,North,Chandigarh,2,12462.3,0.0,24924.6,9251.82,UPI,4
+ORD0346,2025-12-02,CUST1108,Mouse,Accessories,East,Bhubaneswar,2,853.77,0.0,1707.54,460.06,Credit Card,3
+ORD0347,2025-03-03,CUST1129,Tablet,Electronics,East,Patna,6,21366.17,0.0,128197.02,34061.03,UPI,2
+ORD0348,2025-05-25,CUST1199,Tablet,Electronics,Central,Varanasi,1,23598.36,0.0,23598.36,4828.27,Debit Card,3
+ORD0349,2025-06-05,CUST1190,Smartphone,Electronics,Central,Nagpur,4,25795.7,0.05,98023.66,28032.8,Cash on Delivery,2
+ORD0350,2025-10-07,CUST1195,Printer,Electronics,East,Kolkata,5,12905.97,0.05,61303.36,11841.7,Credit Card,2
+ORD0351,2025-12-22,CUST1225,Laptop,Electronics,East,Patna,1,52650.38,0.1,47385.34,8045.59,UPI,3
+ORD0352,2025-05-02,CUST1108,Laptop,Electronics,East,Bhubaneswar,6,56999.49,0.0,341996.94,115923.67,Net Banking,1
+ORD0353,2025-09-24,CUST1106,Monitor,Electronics,West,Mumbai,1,16686.43,0.05,15852.11,2512.02,Debit Card,4
+ORD0354,2025-07-21,CUST1020,Webcam,Accessories,North,Lucknow,5,3273.52,0.05,15549.22,3315.37,Cash on Delivery,5
+ORD0355,2025-06-11,CUST1238,Laptop,Electronics,East,Patna,6,59085.12,0.05,336785.18,96308.08,Net Banking,3
+ORD0356,2025-10-27,CUST1028,Mouse,Accessories,Central,Bhopal,3,861.64,0.05,2455.67,782.65,Credit Card,1
+ORD0357,2025-04-17,CUST1116,Monitor,Electronics,Central,Bhopal,4,17464.42,0.0,69857.68,19058.23,Debit Card,4
+ORD0358,2025-12-23,CUST1155,Keyboard,Accessories,North,Chandigarh,1,1701.39,0.1,1531.25,195.19,UPI,2
+ORD0359,2025-01-26,CUST1174,Mouse,Accessories,South,Bengaluru,1,930.41,0.1,837.37,186.78,Debit Card,3
+ORD0360,2025-05-08,CUST1025,Monitor,Electronics,North,Delhi,4,19021.25,0.2,60868.0,2311.79,Net Banking,1
+ORD0361,2025-07-25,CUST1096,Monitor,Electronics,North,Chandigarh,1,16737.61,0.05,15900.73,5085.84,UPI,5
+ORD0362,2025-11-27,CUST1114,Office Chair,Furniture,West,Mumbai,1,8773.14,0.0,8773.14,2986.81,Credit Card,1
+ORD0363,2025-10-21,CUST1111,Mouse,Accessories,North,Chandigarh,1,963.69,0.0,963.69,333.82,Net Banking,4
+ORD0364,2025-04-06,CUST1071,Laptop,Electronics,East,Bhubaneswar,6,54354.64,0.1,293515.06,77310.82,Debit Card,4
+ORD0365,2025-09-13,CUST1106,Monitor,Electronics,North,Jaipur,5,18343.23,0.05,87130.34,18393.15,Cash on Delivery,4
+ORD0366,2025-09-27,CUST1064,Laptop,Electronics,North,Lucknow,3,53970.53,0.15,137624.85,30780.76,Cash on Delivery,1
+ORD0367,2025-10-17,CUST1129,Headphones,Accessories,East,Kolkata,4,2517.81,0.15,8560.55,1623.41,Debit Card,4
+ORD0368,2025-05-24,CUST1015,Keyboard,Accessories,South,Chennai,1,1747.84,0.05,1660.45,566.55,Net Banking,5
+ORD0369,2025-01-29,CUST1196,Mouse,Accessories,South,Kochi,2,842.42,0.05,1600.6,466.19,Credit Card,5
+ORD0370,2025-12-24,CUST1092,Headphones,Accessories,East,Kolkata,2,2370.44,0.2,3792.7,551.83,Cash on Delivery,1
+ORD0371,2025-09-10,CUST1139,Webcam,Accessories,East,Kolkata,5,3535.62,0.2,14142.48,-171.01,Debit Card,2
+ORD0372,2025-09-27,CUST1123,Printer,Electronics,North,Jaipur,1,11147.84,0.2,8918.27,1518.76,UPI,3
+ORD0373,2025-06-15,CUST1016,Office Chair,Furniture,South,Hyderabad,2,9257.95,0.05,17590.1,2707.83,UPI,2
+ORD0374,2025-07-11,CUST1181,Office Chair,Furniture,South,Bengaluru,1,10026.65,0.1,9023.99,881.23,Net Banking,5
+ORD0375,2025-08-12,CUST1203,Smartphone,Electronics,West,Ahmedabad,3,27205.26,0.05,77534.99,14978.91,Net Banking,3
+ORD0376,2025-04-25,CUST1171,Monitor,Electronics,Central,Nagpur,6,19122.05,0.2,91785.84,2593.14,Cash on Delivery,2
+ORD0377,2025-01-01,CUST1243,Headphones,Accessories,West,Pune,6,2575.4,0.05,14679.78,4550.09,Cash on Delivery,4
+ORD0378,2025-10-17,CUST1027,Office Chair,Furniture,North,Jaipur,2,9655.63,0.2,15449.01,2622.88,Net Banking,2
+ORD0379,2025-02-15,CUST1211,Mouse,Accessories,North,Lucknow,2,877.94,0.1,1580.29,432.69,Debit Card,4
+ORD0380,2025-02-25,CUST1185,Laptop,Electronics,West,Mumbai,2,52795.96,0.0,105591.92,32723.33,UPI,1
+ORD0381,2025-09-10,CUST1226,Headphones,Accessories,Central,Bhopal,6,2467.86,0.05,14066.8,2266.82,Net Banking,3
+ORD0382,2025-12-18,CUST1058,Backpack,Bags,East,Bhubaneswar,1,1894.7,0.2,1515.76,94.37,Credit Card,4
+ORD0383,2025-02-07,CUST1088,Smartphone,Electronics,North,Jaipur,3,25849.95,0.1,69794.87,6953.71,Credit Card,4
+ORD0384,2025-11-11,CUST1229,Monitor,Electronics,North,Lucknow,5,19272.48,0.0,96362.4,30104.57,Net Banking,1
+ORD0385,2025-06-19,CUST1053,Headphones,Accessories,South,Chennai,5,2655.9,0.05,12615.52,4239.99,Credit Card,4
+ORD0386,2025-05-25,CUST1077,Webcam,Accessories,Central,Nagpur,6,3738.32,0.2,17943.94,2847.42,Credit Card,1
+ORD0387,2025-07-04,CUST1001,Laptop,Electronics,East,Bhubaneswar,5,55437.03,0.15,235607.38,55238.02,Net Banking,1
+ORD0388,2025-05-30,CUST1021,Keyboard,Accessories,Central,Indore,2,1683.93,0.05,3199.47,996.33,Net Banking,1
+ORD0389,2025-10-06,CUST1100,Keyboard,Accessories,East,Bhubaneswar,4,1796.86,0.1,6468.7,1881.48,Credit Card,3
+ORD0390,2025-05-15,CUST1058,Headphones,Accessories,East,Kolkata,2,2478.31,0.1,4460.96,951.93,Debit Card,5
+ORD0391,2025-10-05,CUST1106,Laptop,Electronics,South,Bengaluru,6,56473.72,0.0,338842.32,83481.18,Cash on Delivery,2
+ORD0392,2025-12-18,CUST1222,Backpack,Bags,North,Jaipur,4,1891.7,0.15,6431.78,279.02,Net Banking,5
+ORD0393,2025-09-22,CUST1205,Tablet,Electronics,Central,Indore,3,20517.92,0.0,61553.76,17209.18,Cash on Delivery,5
+ORD0394,2025-04-09,CUST1033,Monitor,Electronics,North,Chandigarh,4,17057.89,0.05,64819.98,9249.95,UPI,4
+ORD0395,2025-05-13,CUST1082,Smartphone,Electronics,East,Patna,2,30227.77,0.05,57432.76,9865.03,UPI,1
+ORD0396,2025-01-07,CUST1202,Headphones,Accessories,Central,Nagpur,4,2520.82,0.1,9074.95,1775.28,Cash on Delivery,5
+ORD0397,2025-10-26,CUST1195,Backpack,Bags,East,Patna,1,1775.36,0.05,1686.59,384.69,UPI,1
+ORD0398,2025-05-16,CUST1099,Office Chair,Furniture,North,Chandigarh,3,10058.56,0.1,27158.11,3150.98,Net Banking,5
+ORD0399,2025-11-08,CUST1175,Office Chair,Furniture,Central,Indore,1,9001.74,0.15,7651.48,1811.42,Net Banking,1
+ORD0400,2025-07-10,CUST1006,Headphones,Accessories,West,Ahmedabad,6,2395.03,0.15,12214.65,658.63,Debit Card,3
+ORD0401,2025-04-27,CUST1035,Keyboard,Accessories,West,Mumbai,4,1903.17,0.0,7612.68,1412.16,Debit Card,4
+ORD0402,2025-04-19,CUST1234,Mouse,Accessories,West,Mumbai,6,888.02,0.0,5328.12,1824.42,Net Banking,4
+ORD0403,2025-12-30,CUST1130,Backpack,Bags,East,Kolkata,1,1804.4,0.05,1714.18,571.77,Net Banking,2
+ORD0404,2025-05-08,CUST1009,Backpack,Bags,North,Delhi,2,1711.52,0.05,3251.89,556.6,Net Banking,1
+ORD0405,2025-11-22,CUST1237,Mouse,Accessories,South,Hyderabad,3,881.04,0.15,2246.65,340.89,UPI,1
+ORD0406,2025-08-31,CUST1151,Tablet,Electronics,East,Kolkata,4,22331.03,0.05,84857.91,12317.43,Cash on Delivery,3
+ORD0407,2025-07-17,CUST1013,Mouse,Accessories,South,Chennai,3,935.85,0.0,2807.55,906.8,Credit Card,5
+ORD0408,2025-07-29,CUST1132,Tablet,Electronics,South,Kochi,6,21032.39,0.05,119884.62,34852.76,UPI,1
+ORD0409,2025-11-08,CUST1207,Printer,Electronics,South,Bengaluru,6,11372.55,0.0,68235.3,22875.61,Debit Card,3
+ORD0410,2025-12-13,CUST1134,Headphones,Accessories,East,Bhubaneswar,3,2483.6,0.05,7078.26,1763.31,Cash on Delivery,4
+ORD0411,2025-11-01,CUST1156,Office Chair,Furniture,North,Chandigarh,1,9517.5,0.1,8565.75,1596.17,Debit Card,3
+ORD0412,2025-05-22,CUST1067,Desk,Furniture,North,Chandigarh,4,11162.57,0.1,40185.25,6781.53,Debit Card,2
+ORD0413,2025-06-13,CUST1175,Monitor,Electronics,Central,Varanasi,2,19151.1,0.2,30641.76,3798.82,Credit Card,1
+ORD0414,2025-01-19,CUST1150,Desk,Furniture,Central,Indore,3,11538.1,0.15,29422.16,5160.31,Cash on Delivery,2
+ORD0415,2025-12-10,CUST1092,Mouse,Accessories,South,Kochi,6,904.99,0.15,4615.45,264.41,Cash on Delivery,3
+ORD0416,2025-05-13,CUST1186,Monitor,Electronics,Central,Nagpur,2,17406.1,0.15,29590.37,7116.0,Cash on Delivery,2
+ORD0417,2025-06-07,CUST1108,Desk,Furniture,West,Ahmedabad,6,11211.46,0.1,60541.88,15830.65,Debit Card,3
+ORD0418,2025-11-21,CUST1150,Keyboard,Accessories,West,Pune,4,1901.15,0.15,6463.91,1667.42,Cash on Delivery,5
+ORD0419,2025-07-31,CUST1014,Smartphone,Electronics,Central,Indore,2,28002.14,0.15,47603.64,6946.34,Credit Card,2
+ORD0420,2025-04-03,CUST1200,Tablet,Electronics,West,Ahmedabad,4,23714.91,0.15,80630.69,19100.47,UPI,4
+ORD0421,2025-04-18,CUST1195,Mouse,Accessories,South,Chennai,3,919.37,0.0,2758.11,798.72,Credit Card,5
+ORD0422,2025-07-26,CUST1110,Monitor,Electronics,Central,Indore,1,16932.69,0.15,14392.79,1749.19,Net Banking,4
+ORD0423,2025-06-14,CUST1194,Laptop,Electronics,North,Jaipur,5,52354.85,0.1,235596.83,23556.1,Cash on Delivery,2
+ORD0424,2025-06-26,CUST1080,Laptop,Electronics,North,Delhi,6,57055.71,0.05,325217.55,65486.85,Credit Card,1
+ORD0425,2025-06-02,CUST1243,Headphones,Accessories,Central,Varanasi,5,2422.45,0.0,12112.25,2606.93,Debit Card,4
+ORD0426,2025-03-10,CUST1088,Webcam,Accessories,Central,Varanasi,5,3513.51,0.15,14932.42,920.63,Net Banking,3
+ORD0427,2025-03-09,CUST1055,Tablet,Electronics,South,Chennai,4,20307.32,0.05,77167.82,14992.19,UPI,5
+ORD0428,2025-11-24,CUST1066,Backpack,Bags,South,Chennai,1,1761.58,0.0,1761.58,537.21,Cash on Delivery,5
+ORD0429,2025-03-01,CUST1107,Laptop,Electronics,North,Jaipur,6,51551.4,0.0,309308.4,114553.29,Net Banking,4
+ORD0430,2025-12-18,CUST1162,Smartphone,Electronics,Central,Nagpur,3,27885.3,0.05,79473.1,24168.27,UPI,3
+ORD0431,2025-03-12,CUST1108,Headphones,Accessories,North,Chandigarh,6,2508.12,0.2,12038.98,885.97,UPI,5
+ORD0432,2025-11-08,CUST1052,Webcam,Accessories,North,Chandigarh,3,3283.85,0.0,9851.55,2762.89,Debit Card,5
+ORD0433,2025-09-12,CUST1234,Tablet,Electronics,East,Kolkata,6,21682.34,0.05,123589.34,41905.75,Credit Card,4
+ORD0434,2025-10-21,CUST1172,Mouse,Accessories,South,Kochi,1,829.84,0.0,829.84,164.83,Net Banking,2
+ORD0435,2025-11-26,CUST1060,Smartphone,Electronics,Central,Varanasi,1,29001.57,0.0,29001.57,5772.59,Net Banking,3
+ORD0436,2025-05-29,CUST1093,Keyboard,Accessories,Central,Bhopal,1,1684.74,0.05,1600.5,261.42,Debit Card,4
+ORD0437,2025-03-12,CUST1170,Webcam,Accessories,North,Chandigarh,1,3696.7,0.0,3696.7,1397.59,Credit Card,3
+ORD0438,2025-06-25,CUST1047,Mouse,Accessories,Central,Bhopal,5,866.64,0.0,4333.2,1323.69,UPI,4
+ORD0439,2025-11-29,CUST1227,Headphones,Accessories,Central,Bhopal,3,2634.28,0.15,6717.41,553.35,Credit Card,1
+ORD0440,2025-10-19,CUST1174,Monitor,Electronics,North,Jaipur,2,16858.69,0.2,26973.9,2814.22,Net Banking,2
+ORD0441,2025-09-07,CUST1029,Office Chair,Furniture,East,Bhubaneswar,3,9669.26,0.05,27557.39,6769.95,Net Banking,4
+ORD0442,2025-12-14,CUST1135,Laptop,Electronics,North,Lucknow,3,56363.77,0.0,169091.31,40427.43,Cash on Delivery,5
+ORD0443,2025-12-05,CUST1187,Tablet,Electronics,West,Ahmedabad,5,22081.32,0.2,88325.28,17770.12,Credit Card,4
+ORD0444,2025-11-10,CUST1014,Mouse,Accessories,East,Bhubaneswar,2,948.82,0.2,1518.11,3.01,UPI,2
+ORD0445,2025-06-14,CUST1062,Backpack,Bags,Central,Indore,4,1906.39,0.0,7625.56,1751.7,Debit Card,3
+ORD0446,2025-05-01,CUST1021,Laptop,Electronics,Central,Varanasi,2,55444.36,0.15,94255.41,16560.63,Net Banking,4
+ORD0447,2025-09-12,CUST1191,Office Chair,Furniture,Central,Bhopal,1,10042.02,0.15,8535.72,1674.89,UPI,1
+ORD0448,2025-11-06,CUST1247,Headphones,Accessories,East,Patna,1,2522.85,0.0,2522.85,541.95,Cash on Delivery,3
+ORD0449,2025-07-06,CUST1212,Backpack,Bags,Central,Nagpur,2,1844.52,0.15,3135.68,147.3,UPI,2
+ORD0450,2025-12-03,CUST1094,Printer,Electronics,West,Ahmedabad,5,12513.44,0.2,50053.76,5341.57,Net Banking,1
+ORD0451,2025-07-11,CUST1180,Smartphone,Electronics,South,Kochi,1,27289.28,0.1,24560.35,4651.78,UPI,1
+ORD0452,2025-11-09,CUST1051,Monitor,Electronics,Central,Indore,2,18926.9,0.15,32175.73,7896.59,Credit Card,1
+ORD0453,2025-02-25,CUST1194,Headphones,Accessories,South,Hyderabad,4,2629.82,0.05,9993.32,1963.35,Net Banking,1
+ORD0454,2025-03-10,CUST1247,Desk,Furniture,North,Chandigarh,4,11918.18,0.2,38138.18,-535.75,Net Banking,1
+ORD0455,2025-09-18,CUST1200,Backpack,Bags,North,Jaipur,5,1925.37,0.2,7701.48,803.01,Credit Card,5
+ORD0456,2025-06-14,CUST1130,Monitor,Electronics,South,Bengaluru,1,17675.73,0.2,14140.58,1038.76,Net Banking,4
+ORD0457,2025-08-20,CUST1207,Office Chair,Furniture,South,Kochi,3,9344.76,0.1,25230.85,2408.19,Credit Card,2
+ORD0458,2025-12-31,CUST1189,Headphones,Accessories,Central,Varanasi,3,2637.23,0.2,6329.35,62.17,Cash on Delivery,2
+ORD0459,2025-03-09,CUST1182,Tablet,Electronics,South,Hyderabad,5,22754.63,0.1,102395.84,10895.11,Credit Card,5
+ORD0460,2025-10-26,CUST1147,Backpack,Bags,West,Ahmedabad,6,1689.24,0.1,9121.9,1698.14,Net Banking,5
+ORD0461,2025-01-28,CUST1172,Keyboard,Accessories,East,Patna,1,1806.55,0.0,1806.55,548.88,UPI,2
+ORD0462,2025-12-20,CUST1201,Keyboard,Accessories,South,Chennai,3,1852.82,0.05,5280.54,901.16,Debit Card,2
+ORD0463,2025-12-12,CUST1190,Backpack,Bags,North,Jaipur,3,1890.44,0.0,5671.32,1456.27,Cash on Delivery,2
+ORD0464,2025-01-25,CUST1238,Webcam,Accessories,Central,Nagpur,4,3353.05,0.1,12070.98,1896.66,Net Banking,4
+ORD0465,2025-08-15,CUST1213,Headphones,Accessories,West,Ahmedabad,5,2321.52,0.1,10446.84,2778.66,Credit Card,3
+ORD0466,2025-04-01,CUST1175,Office Chair,Furniture,Central,Nagpur,6,9657.15,0.05,55045.75,15712.05,UPI,2
+ORD0467,2025-05-16,CUST1034,Monitor,Electronics,Central,Varanasi,1,17646.33,0.15,14999.38,3073.59,Credit Card,5
+ORD0468,2025-06-15,CUST1153,Keyboard,Accessories,North,Delhi,3,1790.3,0.05,5102.35,1729.49,UPI,5
+ORD0469,2025-12-29,CUST1082,Desk,Furniture,West,Pune,4,12556.62,0.2,40181.18,5443.69,Cash on Delivery,2
+ORD0470,2025-10-02,CUST1104,Monitor,Electronics,Central,Varanasi,1,18824.42,0.05,17883.2,4646.13,UPI,3
+ORD0471,2025-11-13,CUST1136,Tablet,Electronics,South,Hyderabad,6,21408.23,0.1,115604.44,28423.94,Net Banking,5
+ORD0472,2025-11-25,CUST1158,Desk,Furniture,North,Delhi,1,12324.36,0.15,10475.71,2242.18,Cash on Delivery,2
+ORD0473,2025-10-04,CUST1186,Laptop,Electronics,West,Ahmedabad,4,58660.21,0.0,234640.84,71055.07,Debit Card,1
+ORD0474,2025-06-01,CUST1230,Backpack,Bags,East,Kolkata,5,1887.21,0.15,8020.64,1251.59,Credit Card,3
+ORD0475,2025-11-17,CUST1017,Backpack,Bags,North,Lucknow,1,1704.21,0.2,1363.37,125.02,Credit Card,2
+ORD0476,2025-02-06,CUST1192,Desk,Furniture,East,Patna,1,11434.71,0.15,9719.5,1151.33,Credit Card,1
+ORD0477,2025-05-09,CUST1143,Printer,Electronics,West,Ahmedabad,1,11208.04,0.0,11208.04,3860.07,UPI,5
+ORD0478,2025-01-09,CUST1100,Tablet,Electronics,West,Mumbai,4,21605.87,0.15,73459.96,12392.7,UPI,5
+ORD0479,2025-09-15,CUST1028,Laptop,Electronics,North,Lucknow,6,55753.35,0.0,334520.1,103186.06,Debit Card,3
+ORD0480,2025-12-05,CUST1008,Office Chair,Furniture,North,Lucknow,3,9903.22,0.15,25253.21,4566.89,Net Banking,2
+ORD0481,2025-11-21,CUST1037,Backpack,Bags,South,Kochi,2,1871.07,0.2,2993.71,452.81,Debit Card,3
+ORD0482,2025-11-02,CUST1101,Laptop,Electronics,Central,Nagpur,5,51844.09,0.0,259220.45,98243.0,Cash on Delivery,5
+ORD0483,2025-11-27,CUST1218,Smartphone,Electronics,West,Pune,2,29112.37,0.1,52402.27,13837.27,Cash on Delivery,2
+ORD0484,2025-04-03,CUST1172,Monitor,Electronics,South,Chennai,2,18336.63,0.1,33005.93,8843.19,Cash on Delivery,1
+ORD0485,2025-05-09,CUST1026,Backpack,Bags,Central,Bhopal,6,1814.3,0.1,9797.22,1585.66,Credit Card,5
+ORD0486,2025-11-14,CUST1018,Printer,Electronics,West,Ahmedabad,3,11286.17,0.05,32165.58,10495.83,Credit Card,3
+ORD0487,2025-03-20,CUST1145,Printer,Electronics,Central,Bhopal,3,12223.38,0.1,33003.13,5181.8,Cash on Delivery,3
+ORD0488,2025-12-31,CUST1190,Mouse,Accessories,East,Patna,2,828.7,0.05,1574.53,286.51,Net Banking,3
+ORD0489,2025-07-03,CUST1199,Mouse,Accessories,South,Bengaluru,6,933.55,0.15,4761.1,769.78,Debit Card,4
+ORD0490,2025-03-13,CUST1229,Backpack,Bags,North,Chandigarh,2,1841.92,0.0,3683.84,779.65,Cash on Delivery,2
+ORD0491,2025-11-20,CUST1008,Keyboard,Accessories,North,Lucknow,6,1677.72,0.0,10066.32,2114.76,Cash on Delivery,5
+ORD0492,2025-10-04,CUST1121,Headphones,Accessories,South,Hyderabad,1,2520.64,0.2,2016.51,3.03,Credit Card,3
+ORD0493,2025-09-14,CUST1131,Headphones,Accessories,South,Kochi,5,2593.29,0.1,11669.81,3283.42,UPI,4
+ORD0494,2025-09-21,CUST1036,Mouse,Accessories,Central,Varanasi,1,923.43,0.2,738.74,39.86,Net Banking,2
+ORD0495,2025-09-07,CUST1060,Monitor,Electronics,South,Bengaluru,6,18668.17,0.1,100808.12,30457.05,UPI,3
+ORD0496,2025-07-04,CUST1100,Mouse,Accessories,South,Kochi,1,924.28,0.2,739.42,-1.43,Net Banking,4
+ORD0497,2025-05-21,CUST1214,Laptop,Electronics,North,Jaipur,6,53451.83,0.2,256568.78,17089.59,Debit Card,5
+ORD0498,2025-02-09,CUST1133,Backpack,Bags,South,Chennai,4,1844.26,0.1,6639.34,1198.51,Debit Card,4
+ORD0499,2025-09-04,CUST1228,Tablet,Electronics,Central,Varanasi,4,21482.2,0.1,77335.92,15692.98,Cash on Delivery,1
+ORD0500,2025-05-24,CUST1055,Backpack,Bags,South,Bengaluru,4,1703.69,0.0,6814.76,1888.31,Credit Card,2
+ORD0501,2025-08-01,CUST1208,Monitor,Electronics,East,Kolkata,5,18625.83,0.0,93129.15,23075.36,Debit Card,1
+ORD0502,2025-07-30,CUST1006,Printer,Electronics,Central,Indore,4,11444.55,0.05,43489.29,9180.73,Credit Card,1
+ORD0503,2025-03-17,CUST1015,Monitor,Electronics,South,Chennai,2,18373.08,0.0,36746.16,7416.86,Credit Card,3
+ORD0504,2025-12-05,CUST1211,Monitor,Electronics,Central,Varanasi,4,18286.15,0.2,58515.68,3838.3,Debit Card,1
+ORD0505,2025-07-30,CUST1154,Tablet,Electronics,Central,Bhopal,5,23734.57,0.15,100871.92,23246.42,Credit Card,5
+ORD0506,2025-11-02,CUST1152,Monitor,Electronics,Central,Varanasi,3,17043.04,0.1,46016.21,4884.35,UPI,2
+ORD0507,2025-09-16,CUST1176,Headphones,Accessories,East,Bhubaneswar,2,2343.43,0.05,4452.52,1056.69,Net Banking,2
+ORD0508,2025-09-30,CUST1129,Office Chair,Furniture,North,Chandigarh,2,9463.32,0.2,15141.31,1136.3,UPI,1
+ORD0509,2025-12-14,CUST1167,Printer,Electronics,South,Bengaluru,5,12075.43,0.0,60377.15,12112.03,Net Banking,5
+ORD0510,2025-09-04,CUST1203,Headphones,Accessories,East,Kolkata,1,2579.06,0.15,2192.2,474.81,Net Banking,3
+ORD0511,2025-02-12,CUST1073,Office Chair,Furniture,North,Chandigarh,4,8943.5,0.15,30407.9,2748.45,Cash on Delivery,5
+ORD0512,2025-03-02,CUST1134,Headphones,Accessories,West,Mumbai,2,2302.19,0.0,4604.38,1217.41,UPI,4
+ORD0513,2025-03-21,CUST1110,Desk,Furniture,South,Hyderabad,6,12584.23,0.15,64179.57,11895.57,Cash on Delivery,3
+ORD0514,2025-12-15,CUST1102,Keyboard,Accessories,Central,Nagpur,4,1818.63,0.2,5819.62,908.5,Credit Card,4
+ORD0515,2025-05-10,CUST1079,Backpack,Bags,Central,Nagpur,4,1707.47,0.2,5463.9,471.38,Cash on Delivery,3
+ORD0516,2025-08-17,CUST1201,Webcam,Accessories,East,Bhubaneswar,6,3297.32,0.0,19783.92,4558.95,Credit Card,1
+ORD0517,2025-12-17,CUST1181,Tablet,Electronics,Central,Varanasi,4,23007.01,0.2,73622.43,5263.53,UPI,2
+ORD0518,2025-08-11,CUST1023,Headphones,Accessories,North,Delhi,1,2629.3,0.15,2234.91,117.87,UPI,3
+ORD0519,2025-07-25,CUST1158,Tablet,Electronics,East,Kolkata,1,22383.78,0.15,19026.21,981.82,Cash on Delivery,3
+ORD0520,2025-12-03,CUST1239,Webcam,Accessories,North,Jaipur,2,3578.56,0.15,6083.55,1630.8,Cash on Delivery,3
+ORD0521,2025-12-12,CUST1010,Tablet,Electronics,North,Jaipur,5,22037.13,0.05,104676.37,22804.25,Debit Card,2
+ORD0522,2025-06-30,CUST1172,Desk,Furniture,North,Delhi,2,11206.74,0.1,20172.13,2780.74,Net Banking,4
+ORD0523,2025-10-09,CUST1073,Office Chair,Furniture,South,Hyderabad,5,8763.36,0.0,43816.8,8595.3,Cash on Delivery,5
+ORD0524,2025-07-26,CUST1148,Mouse,Accessories,East,Kolkata,3,860.59,0.05,2452.68,617.17,UPI,3
+ORD0525,2025-06-24,CUST1243,Monitor,Electronics,East,Patna,5,16866.62,0.0,84333.1,23559.81,UPI,5
+ORD0526,2025-10-16,CUST1124,Keyboard,Accessories,Central,Nagpur,5,1728.04,0.15,7344.17,317.86,Credit Card,3
+ORD0527,2025-02-04,CUST1098,Printer,Electronics,Central,Bhopal,5,12695.08,0.15,53954.09,13123.31,Credit Card,2
+ORD0528,2025-05-15,CUST1064,Mouse,Accessories,East,Patna,3,902.38,0.0,2707.14,649.27,Debit Card,1
+ORD0529,2025-07-01,CUST1056,Headphones,Accessories,West,Ahmedabad,1,2521.82,0.05,2395.73,591.84,Cash on Delivery,3
+ORD0530,2025-05-16,CUST1053,Monitor,Electronics,South,Hyderabad,4,18682.88,0.05,70994.94,13669.45,Credit Card,2
+ORD0531,2025-12-13,CUST1245,Tablet,Electronics,East,Kolkata,2,22981.86,0.0,45963.72,9007.16,Net Banking,5
+ORD0532,2025-09-10,CUST1230,Laptop,Electronics,Central,Nagpur,1,58062.49,0.1,52256.24,9050.0,Cash on Delivery,3
+ORD0533,2025-03-07,CUST1014,Printer,Electronics,South,Chennai,5,11578.11,0.05,54996.02,10418.34,Cash on Delivery,4
+ORD0534,2025-03-31,CUST1118,Printer,Electronics,Central,Nagpur,1,12004.75,0.15,10204.04,695.32,UPI,5
+ORD0535,2025-02-21,CUST1084,Printer,Electronics,West,Ahmedabad,6,11056.16,0.05,63020.11,16857.17,Debit Card,5
+ORD0536,2025-11-10,CUST1088,Keyboard,Accessories,South,Chennai,5,1731.7,0.1,7792.65,1608.15,Debit Card,2
+ORD0537,2025-07-25,CUST1072,Printer,Electronics,East,Patna,2,11844.66,0.1,21320.39,4903.32,Net Banking,2
+ORD0538,2025-05-01,CUST1143,Office Chair,Furniture,South,Bengaluru,5,9782.74,0.0,48913.7,11535.66,Net Banking,4
+ORD0539,2025-09-13,CUST1035,Tablet,Electronics,South,Bengaluru,6,20766.41,0.0,124598.46,42946.42,Cash on Delivery,5
+ORD0540,2025-01-25,CUST1102,Webcam,Accessories,West,Ahmedabad,4,3388.02,0.2,10841.66,112.47,UPI,2
+ORD0541,2025-06-21,CUST1067,Laptop,Electronics,South,Hyderabad,3,54793.55,0.0,164380.65,47675.16,Debit Card,3
+ORD0542,2025-12-14,CUST1247,Backpack,Bags,Central,Nagpur,3,1755.11,0.15,4475.53,1083.35,Cash on Delivery,2
+ORD0543,2025-12-11,CUST1131,Office Chair,Furniture,Central,Nagpur,2,10228.65,0.1,18411.57,4275.13,Net Banking,4
+ORD0544,2025-11-24,CUST1207,Smartphone,Electronics,East,Bhubaneswar,5,27043.63,0.05,128457.24,21141.15,Debit Card,4
+ORD0545,2025-06-12,CUST1168,Desk,Furniture,East,Bhubaneswar,1,11191.89,0.1,10072.7,2622.89,Debit Card,3
+ORD0546,2025-09-24,CUST1248,Office Chair,Furniture,East,Bhubaneswar,3,10089.29,0.1,27241.08,3947.56,Net Banking,4
+ORD0547,2025-12-25,CUST1192,Monitor,Electronics,South,Chennai,1,16920.11,0.05,16074.1,3343.33,UPI,2
+ORD0548,2025-01-14,CUST1198,Monitor,Electronics,East,Bhubaneswar,1,16835.19,0.15,14309.91,2025.49,Net Banking,5
+ORD0549,2025-07-19,CUST1080,Smartphone,Electronics,North,Chandigarh,3,28529.1,0.0,85587.3,21314.1,Credit Card,2
+ORD0550,2025-03-29,CUST1008,Webcam,Accessories,West,Pune,4,3570.83,0.05,13569.15,3208.77,UPI,3
+ORD0551,2025-10-08,CUST1114,Mouse,Accessories,Central,Indore,4,968.4,0.2,3098.88,-27.0,Credit Card,5
+ORD0552,2025-11-24,CUST1164,Monitor,Electronics,Central,Bhopal,6,18716.87,0.2,89840.98,10444.53,Cash on Delivery,3
+ORD0553,2025-07-07,CUST1106,Mouse,Accessories,Central,Indore,5,860.71,0.0,4303.55,1255.04,Debit Card,2
+ORD0554,2025-08-29,CUST1137,Keyboard,Accessories,North,Delhi,1,1806.72,0.05,1716.38,471.95,UPI,4
+ORD0555,2025-01-04,CUST1141,Printer,Electronics,West,Pune,1,12510.47,0.1,11259.42,2009.17,Debit Card,2
+ORD0556,2025-11-27,CUST1100,Headphones,Accessories,Central,Nagpur,4,2457.9,0.05,9340.02,1838.63,Net Banking,2
+ORD0557,2025-11-10,CUST1207,Keyboard,Accessories,North,Lucknow,4,1836.09,0.2,5875.49,198.98,Debit Card,3
+ORD0558,2025-05-29,CUST1029,Desk,Furniture,Central,Nagpur,3,11832.78,0.0,35498.34,12194.34,Net Banking,5
+ORD0559,2025-03-19,CUST1013,Printer,Electronics,West,Mumbai,6,12235.69,0.05,69743.43,19518.71,Cash on Delivery,1
+ORD0560,2025-04-30,CUST1024,Monitor,Electronics,North,Chandigarh,3,17335.28,0.15,44204.96,4398.58,Credit Card,1
+ORD0561,2025-08-26,CUST1179,Printer,Electronics,South,Hyderabad,3,11846.87,0.15,30209.52,1080.7,UPI,3
+ORD0562,2025-08-29,CUST1047,Smartphone,Electronics,South,Bengaluru,1,26953.94,0.15,22910.85,5814.59,Credit Card,3
+ORD0563,2025-08-15,CUST1064,Headphones,Accessories,North,Delhi,1,2689.84,0.05,2555.35,680.64,UPI,2
+ORD0564,2025-12-15,CUST1247,Printer,Electronics,North,Chandigarh,5,12318.74,0.05,58514.01,14501.3,Debit Card,3
+ORD0565,2025-09-04,CUST1164,Monitor,Electronics,North,Jaipur,6,19259.77,0.2,92446.9,17977.65,Debit Card,2
+ORD0566,2025-08-11,CUST1084,Mouse,Accessories,North,Jaipur,6,859.36,0.0,5156.16,1716.01,UPI,2
+ORD0567,2025-10-25,CUST1201,Keyboard,Accessories,North,Chandigarh,4,1883.27,0.0,7533.08,1402.91,Net Banking,5
+ORD0568,2025-11-13,CUST1087,Monitor,Electronics,East,Kolkata,1,17276.32,0.15,14684.87,3657.74,UPI,1
+ORD0569,2025-04-30,CUST1082,Mouse,Accessories,South,Bengaluru,6,905.23,0.0,5431.38,1927.24,Cash on Delivery,3
+ORD0570,2025-05-09,CUST1231,Printer,Electronics,South,Hyderabad,1,12363.36,0.1,11127.02,1670.54,UPI,4
+ORD0571,2025-04-06,CUST1140,Webcam,Accessories,Central,Bhopal,5,3385.04,0.15,14386.42,3250.4,Debit Card,3
+ORD0572,2025-10-11,CUST1042,Webcam,Accessories,Central,Bhopal,3,3705.89,0.2,8894.14,-32.18,UPI,5
+ORD0573,2025-01-01,CUST1199,Monitor,Electronics,Central,Bhopal,3,18919.93,0.2,45407.83,6049.31,Cash on Delivery,4
+ORD0574,2025-05-03,CUST1083,Webcam,Accessories,South,Chennai,1,3567.05,0.1,3210.35,445.16,UPI,5
+ORD0575,2025-05-25,CUST1083,Headphones,Accessories,South,Hyderabad,5,2573.29,0.2,10293.16,1919.34,Net Banking,3
+ORD0576,2025-03-08,CUST1046,Smartphone,Electronics,North,Chandigarh,5,28711.83,0.0,143559.15,30572.55,UPI,2
+ORD0577,2025-07-18,CUST1169,Smartphone,Electronics,Central,Indore,2,26202.42,0.2,41923.87,2706.69,Net Banking,5
+ORD0578,2025-01-07,CUST1239,Office Chair,Furniture,West,Mumbai,1,9296.86,0.2,7437.49,338.7,Credit Card,4
+ORD0579,2025-08-01,CUST1211,Smartphone,Electronics,Central,Bhopal,6,26031.94,0.2,124953.31,4889.5,Debit Card,1
+ORD0580,2025-02-09,CUST1242,Office Chair,Furniture,West,Mumbai,5,8801.79,0.0,44008.95,9378.69,Credit Card,5
+ORD0581,2025-09-27,CUST1169,Smartphone,Electronics,North,Chandigarh,6,26794.96,0.15,136654.3,30885.15,Credit Card,5
+ORD0582,2025-11-23,CUST1148,Desk,Furniture,South,Chennai,5,12478.45,0.15,53033.41,5039.94,Debit Card,4
+ORD0583,2025-09-16,CUST1087,Webcam,Accessories,East,Patna,1,3313.41,0.05,3147.74,728.97,Credit Card,5
+ORD0584,2025-06-16,CUST1217,Office Chair,Furniture,Central,Bhopal,3,10111.78,0.2,24268.27,-554.91,Debit Card,4
+ORD0585,2025-04-20,CUST1097,Desk,Furniture,East,Patna,6,11661.03,0.05,66467.87,15208.62,Cash on Delivery,3
+ORD0586,2025-05-26,CUST1153,Mouse,Accessories,Central,Bhopal,4,966.21,0.0,3864.84,907.22,UPI,5
+ORD0587,2025-06-11,CUST1006,Monitor,Electronics,West,Pune,1,17424.96,0.05,16553.71,5001.58,Debit Card,5
+ORD0588,2025-08-24,CUST1092,Backpack,Bags,Central,Nagpur,5,1922.67,0.05,9132.68,2991.12,Credit Card,2
+ORD0589,2025-02-17,CUST1147,Keyboard,Accessories,East,Kolkata,5,1727.96,0.1,7775.82,1017.64,Net Banking,5
+ORD0590,2025-12-20,CUST1180,Tablet,Electronics,North,Lucknow,6,21382.92,0.15,109052.89,25071.84,Cash on Delivery,1
+ORD0591,2025-01-29,CUST1236,Office Chair,Furniture,West,Pune,1,9850.8,0.2,7880.64,1021.44,Debit Card,3
+ORD0592,2025-11-05,CUST1238,Headphones,Accessories,East,Patna,1,2647.91,0.05,2515.51,477.85,UPI,4
+ORD0593,2025-06-17,CUST1129,Laptop,Electronics,West,Pune,5,50962.4,0.2,203849.6,17076.84,Credit Card,2
+ORD0594,2025-04-24,CUST1111,Laptop,Electronics,East,Bhubaneswar,4,57224.99,0.2,183119.97,18095.49,Debit Card,4
+ORD0595,2025-10-08,CUST1103,Monitor,Electronics,South,Bengaluru,3,16797.73,0.2,40314.55,1559.01,Debit Card,1
+ORD0596,2025-09-04,CUST1144,Headphones,Accessories,Central,Varanasi,4,2609.53,0.05,9916.21,1853.74,Credit Card,4
+ORD0597,2025-02-06,CUST1069,Headphones,Accessories,South,Hyderabad,5,2546.4,0.2,10185.6,1664.72,Net Banking,3
+ORD0598,2025-04-08,CUST1083,Desk,Furniture,North,Lucknow,1,12329.76,0.15,10480.3,1935.12,Debit Card,5
+ORD0599,2025-08-15,CUST1160,Desk,Furniture,North,Delhi,3,11364.97,0.1,30685.42,5344.58,Credit Card,4
+ORD0600,2025-02-13,CUST1029,Laptop,Electronics,South,Kochi,2,56631.16,0.05,107599.2,20212.02,UPI,2
+ORD0601,2025-08-30,CUST1006,Office Chair,Furniture,South,Bengaluru,3,8760.87,0.0,26282.61,8383.53,Debit Card,2
+ORD0602,2025-10-08,CUST1124,Webcam,Accessories,Central,Nagpur,2,3334.13,0.2,5334.61,199.58,Cash on Delivery,2
+ORD0603,2025-03-29,CUST1016,Webcam,Accessories,North,Delhi,4,3546.48,0.2,11348.74,2430.1,Debit Card,2
+ORD0604,2025-12-05,CUST1070,Webcam,Accessories,West,Mumbai,1,3480.38,0.0,3480.38,1276.19,Debit Card,1
+ORD0605,2025-12-30,CUST1026,Laptop,Electronics,West,Pune,6,54001.4,0.15,275407.14,41567.66,Debit Card,4
+ORD0606,2025-10-15,CUST1238,Office Chair,Furniture,Central,Nagpur,1,9023.35,0.2,7218.68,-120.54,UPI,1
+ORD0607,2025-01-10,CUST1089,Tablet,Electronics,Central,Varanasi,3,21414.17,0.15,54606.13,5211.47,Debit Card,3
+ORD0608,2025-02-01,CUST1161,Desk,Furniture,West,Pune,2,12952.31,0.2,20723.7,3233.53,Debit Card,4
+ORD0609,2025-12-03,CUST1036,Laptop,Electronics,Central,Nagpur,3,52585.13,0.1,141979.85,15864.66,UPI,4
+ORD0610,2025-06-09,CUST1233,Backpack,Bags,South,Kochi,4,1725.22,0.05,6555.84,1688.7,Cash on Delivery,3
+ORD0611,2025-12-17,CUST1205,Printer,Electronics,Central,Nagpur,2,11436.97,0.05,21730.24,4890.3,Credit Card,2
+ORD0612,2025-10-17,CUST1235,Keyboard,Accessories,Central,Varanasi,2,1779.86,0.05,3381.73,707.5,Credit Card,3
+ORD0613,2025-03-16,CUST1187,Smartphone,Electronics,Central,Nagpur,5,30009.74,0.0,150048.7,51492.66,UPI,3
+ORD0614,2025-04-07,CUST1028,Headphones,Accessories,East,Patna,3,2477.2,0.1,6688.44,1854.99,Credit Card,2
+ORD0615,2025-04-29,CUST1176,Laptop,Electronics,West,Mumbai,5,55589.98,0.05,264052.41,58571.79,UPI,3
+ORD0616,2025-11-29,CUST1096,Smartphone,Electronics,Central,Indore,2,28010.41,0.2,44816.66,4831.65,Credit Card,4
+ORD0617,2025-01-08,CUST1237,Printer,Electronics,Central,Indore,2,11354.47,0.05,21573.49,7347.57,Debit Card,4
+ORD0618,2025-09-08,CUST1177,Tablet,Electronics,South,Hyderabad,2,20472.8,0.15,34803.76,2316.46,Debit Card,4
+ORD0619,2025-07-14,CUST1185,Tablet,Electronics,East,Patna,4,22972.28,0.2,73511.3,3026.25,Debit Card,4
+ORD0620,2025-08-20,CUST1117,Office Chair,Furniture,Central,Nagpur,5,9714.92,0.0,48574.6,13400.28,UPI,2
+ORD0621,2025-09-22,CUST1196,Backpack,Bags,Central,Nagpur,4,1939.34,0.0,7757.36,2082.54,UPI,2
+ORD0622,2025-08-05,CUST1076,Keyboard,Accessories,Central,Bhopal,4,1910.71,0.1,6878.56,1434.8,Cash on Delivery,1
+ORD0623,2025-09-14,CUST1029,Webcam,Accessories,Central,Varanasi,2,3479.6,0.15,5915.32,1474.74,Credit Card,5
+ORD0624,2025-04-02,CUST1117,Webcam,Accessories,Central,Nagpur,2,3440.12,0.1,6192.22,1306.03,Cash on Delivery,2
+ORD0625,2025-03-05,CUST1024,Printer,Electronics,North,Lucknow,3,11662.22,0.05,33237.33,6518.89,UPI,4
+ORD0626,2025-09-19,CUST1157,Desk,Furniture,East,Kolkata,1,12045.73,0.15,10238.87,1019.37,Credit Card,4
+ORD0627,2025-12-04,CUST1221,Backpack,Bags,East,Bhubaneswar,1,1877.26,0.1,1689.53,313.31,Credit Card,2
+ORD0628,2025-08-17,CUST1074,Monitor,Electronics,South,Chennai,6,16707.77,0.1,90221.96,21863.42,Credit Card,1
+ORD0629,2025-09-12,CUST1219,Monitor,Electronics,South,Hyderabad,1,18352.97,0.1,16517.67,5094.02,Net Banking,5
+ORD0630,2025-08-15,CUST1021,Laptop,Electronics,Central,Indore,2,52508.49,0.15,89264.43,14623.85,Cash on Delivery,5
+ORD0631,2025-04-17,CUST1013,Laptop,Electronics,South,Kochi,5,53047.39,0.2,212189.56,4237.35,Credit Card,2
+ORD0632,2025-11-05,CUST1077,Laptop,Electronics,East,Kolkata,1,51879.29,0.0,51879.29,12793.47,Debit Card,1
+ORD0633,2025-11-09,CUST1170,Laptop,Electronics,North,Chandigarh,4,59344.87,0.05,225510.51,46427.13,Cash on Delivery,5
+ORD0634,2025-02-17,CUST1197,Backpack,Bags,South,Chennai,4,1871.81,0.1,6738.52,701.59,Debit Card,3
+ORD0635,2025-08-30,CUST1035,Mouse,Accessories,East,Bhubaneswar,1,937.22,0.2,749.78,156.53,UPI,3
+ORD0636,2025-02-25,CUST1147,Mouse,Accessories,Central,Varanasi,4,903.55,0.05,3433.49,750.27,Cash on Delivery,1
+ORD0637,2025-10-22,CUST1160,Printer,Electronics,West,Pune,4,12208.98,0.1,43952.33,11137.91,Debit Card,2
+ORD0638,2025-04-03,CUST1227,Office Chair,Furniture,Central,Indore,5,9848.36,0.15,41855.53,6475.25,Cash on Delivery,2
+ORD0639,2025-03-02,CUST1189,Webcam,Accessories,West,Pune,2,3220.89,0.0,6441.78,1848.94,Credit Card,5
+ORD0640,2025-04-19,CUST1003,Headphones,Accessories,East,Patna,1,2433.52,0.2,1946.82,45.73,Credit Card,3
+ORD0641,2025-01-04,CUST1030,Keyboard,Accessories,North,Lucknow,3,1742.48,0.2,4181.95,602.28,Debit Card,3
+ORD0642,2025-09-03,CUST1235,Headphones,Accessories,North,Delhi,2,2377.61,0.1,4279.7,454.33,Net Banking,1
+ORD0643,2025-10-02,CUST1230,Desk,Furniture,South,Bengaluru,4,11338.34,0.15,38550.36,2339.71,Debit Card,4
+ORD0644,2025-01-10,CUST1054,Headphones,Accessories,North,Jaipur,5,2419.74,0.1,10888.83,2044.25,Cash on Delivery,3
+ORD0645,2025-07-12,CUST1161,Mouse,Accessories,North,Lucknow,2,868.39,0.0,1736.78,542.17,Cash on Delivery,2
+ORD0646,2025-06-11,CUST1182,Office Chair,Furniture,East,Bhubaneswar,2,9644.69,0.1,17360.44,2680.19,UPI,3
+ORD0647,2025-06-04,CUST1056,Headphones,Accessories,North,Lucknow,4,2650.82,0.1,9542.95,2010.58,Cash on Delivery,3
+ORD0648,2025-08-16,CUST1130,Monitor,Electronics,North,Chandigarh,3,18820.64,0.05,53638.82,8318.49,UPI,4
+ORD0649,2025-09-26,CUST1080,Backpack,Bags,South,Bengaluru,2,1753.95,0.15,2981.72,292.96,Debit Card,2
+ORD0650,2025-08-24,CUST1100,Smartphone,Electronics,Central,Varanasi,6,30207.39,0.05,172182.12,33545.76,Cash on Delivery,1
+ORD0651,2025-06-20,CUST1120,Laptop,Electronics,West,Pune,1,56646.06,0.2,45316.85,318.64,UPI,1
+ORD0652,2025-04-18,CUST1083,Backpack,Bags,West,Pune,1,1822.34,0.1,1640.11,277.42,Credit Card,2
+ORD0653,2025-05-20,CUST1039,Keyboard,Accessories,West,Mumbai,5,1747.92,0.15,7428.66,837.04,Credit Card,3
+ORD0654,2025-06-29,CUST1141,Smartphone,Electronics,North,Delhi,5,28267.12,0.0,141335.6,47868.18,Debit Card,3
+ORD0655,2025-06-23,CUST1139,Monitor,Electronics,West,Pune,5,17265.1,0.0,86325.5,27427.73,Net Banking,1
+ORD0656,2025-01-28,CUST1023,Monitor,Electronics,North,Delhi,4,19161.48,0.0,76645.92,27501.68,Net Banking,4
+ORD0657,2025-12-10,CUST1208,Monitor,Electronics,Central,Bhopal,5,17584.2,0.1,79128.9,10243.82,Cash on Delivery,1
+ORD0658,2025-06-08,CUST1176,Printer,Electronics,South,Bengaluru,1,12600.67,0.15,10710.57,2653.04,Net Banking,4
+ORD0659,2025-07-06,CUST1101,Tablet,Electronics,South,Kochi,2,23271.06,0.2,37233.7,5975.52,Credit Card,3
+ORD0660,2025-09-03,CUST1119,Mouse,Accessories,Central,Bhopal,4,832.36,0.15,2830.02,690.6,Credit Card,3
+ORD0661,2025-11-29,CUST1019,Mouse,Accessories,South,Bengaluru,5,842.82,0.0,4214.1,1326.71,Debit Card,5
+ORD0662,2025-03-23,CUST1250,Printer,Electronics,East,Bhubaneswar,5,11833.81,0.2,47335.24,7766.64,Net Banking,4
+ORD0663,2025-08-11,CUST1146,Smartphone,Electronics,West,Ahmedabad,2,29406.34,0.2,47050.14,5514.88,Debit Card,5
+ORD0664,2025-12-31,CUST1147,Webcam,Accessories,South,Kochi,2,3591.06,0.0,7182.12,1667.16,Net Banking,1
+ORD0665,2025-07-27,CUST1018,Office Chair,Furniture,Central,Bhopal,3,9583.73,0.15,24438.51,5599.73,Cash on Delivery,1
+ORD0666,2025-03-13,CUST1228,Desk,Furniture,East,Bhubaneswar,3,11989.05,0.0,35967.15,13016.27,Cash on Delivery,1
+ORD0667,2025-08-17,CUST1051,Monitor,Electronics,South,Bengaluru,4,18090.02,0.15,61506.07,7734.25,Credit Card,3
+ORD0668,2025-10-26,CUST1003,Keyboard,Accessories,West,Pune,4,1862.72,0.1,6705.79,610.54,Cash on Delivery,5
+ORD0669,2025-01-01,CUST1181,Headphones,Accessories,South,Bengaluru,3,2324.96,0.2,5579.9,-94.72,Cash on Delivery,3
+ORD0670,2025-06-12,CUST1183,Smartphone,Electronics,West,Pune,1,26813.88,0.2,21451.1,2712.12,Net Banking,4
+ORD0671,2025-04-07,CUST1143,Headphones,Accessories,East,Patna,5,2384.49,0.05,11326.33,2802.08,Net Banking,3
+ORD0672,2025-02-06,CUST1166,Headphones,Accessories,South,Bengaluru,3,2698.98,0.05,7692.09,2454.54,UPI,2
+ORD0673,2025-11-25,CUST1207,Webcam,Accessories,Central,Indore,6,3464.57,0.05,19748.05,6507.86,Net Banking,4
+ORD0674,2025-08-19,CUST1099,Webcam,Accessories,East,Patna,5,3320.69,0.2,13282.76,1580.23,Debit Card,2
+ORD0675,2025-05-02,CUST1183,Monitor,Electronics,East,Patna,5,16581.4,0.15,70470.95,5027.42,Cash on Delivery,3
+ORD0676,2025-12-27,CUST1095,Headphones,Accessories,Central,Nagpur,5,2446.79,0.0,12233.95,3258.76,UPI,5
+ORD0677,2025-05-24,CUST1120,Printer,Electronics,North,Lucknow,2,12441.96,0.2,19907.14,-415.95,Cash on Delivery,1
+ORD0678,2025-10-04,CUST1205,Backpack,Bags,North,Lucknow,2,1792.07,0.0,3584.14,871.61,Cash on Delivery,3
+ORD0679,2025-09-20,CUST1232,Office Chair,Furniture,North,Jaipur,3,9553.25,0.0,28659.75,8203.17,Net Banking,5
+ORD0680,2025-01-19,CUST1178,Webcam,Accessories,West,Ahmedabad,4,3417.63,0.1,12303.47,3037.02,Cash on Delivery,3
+ORD0681,2025-01-27,CUST1169,Webcam,Accessories,West,Mumbai,1,3572.41,0.2,2857.93,522.23,Debit Card,5
+ORD0682,2025-05-23,CUST1065,Laptop,Electronics,West,Pune,4,51326.09,0.2,164243.49,33798.76,Credit Card,5
+ORD0683,2025-10-30,CUST1190,Keyboard,Accessories,West,Mumbai,3,1660.09,0.0,4980.27,1291.06,Credit Card,4
+ORD0684,2025-09-28,CUST1221,Mouse,Accessories,South,Chennai,3,940.68,0.05,2680.94,657.58,UPI,3
+ORD0685,2025-07-31,CUST1198,Smartphone,Electronics,South,Bengaluru,5,29944.06,0.05,142234.29,24326.13,Net Banking,2
+ORD0686,2025-06-26,CUST1014,Desk,Furniture,Central,Bhopal,6,12264.14,0.05,69905.6,15780.16,Debit Card,1
+ORD0687,2025-09-30,CUST1060,Laptop,Electronics,South,Chennai,4,54108.95,0.1,194792.22,39985.81,Net Banking,4
+ORD0688,2025-08-18,CUST1098,Printer,Electronics,West,Mumbai,2,12058.45,0.15,20499.37,5489.67,Debit Card,5
+ORD0689,2025-08-10,CUST1157,Desk,Furniture,North,Jaipur,1,12802.01,0.1,11521.81,1136.35,Debit Card,3
+ORD0690,2025-12-12,CUST1192,Keyboard,Accessories,West,Mumbai,1,1729.54,0.2,1383.63,176.01,Credit Card,5
+ORD0691,2025-01-06,CUST1173,Tablet,Electronics,Central,Varanasi,3,22625.57,0.05,64482.87,18146.56,UPI,1
+ORD0692,2025-05-26,CUST1065,Laptop,Electronics,East,Patna,1,55222.33,0.15,46938.98,8818.82,Credit Card,1
+ORD0693,2025-11-23,CUST1032,Laptop,Electronics,North,Lucknow,1,58858.85,0.05,55915.91,8234.49,UPI,1
+ORD0694,2025-04-05,CUST1230,Office Chair,Furniture,South,Bengaluru,4,9737.72,0.2,31160.7,754.08,UPI,2
+ORD0695,2025-05-22,CUST1197,Keyboard,Accessories,West,Pune,4,1846.22,0.0,7384.88,1862.79,Net Banking,3
+ORD0696,2025-06-20,CUST1016,Keyboard,Accessories,South,Chennai,1,1735.86,0.0,1735.86,526.73,Debit Card,3
+ORD0697,2025-04-02,CUST1166,Monitor,Electronics,Central,Bhopal,1,17976.16,0.05,17077.35,3737.95,Net Banking,1
+ORD0698,2025-05-13,CUST1027,Monitor,Electronics,Central,Nagpur,4,17188.95,0.0,68755.8,13577.77,UPI,1
+ORD0699,2025-11-24,CUST1001,Smartphone,Electronics,West,Mumbai,4,25844.07,0.15,87869.84,20698.95,UPI,4
+ORD0700,2025-09-21,CUST1182,Keyboard,Accessories,South,Bengaluru,6,1750.99,0.15,8930.05,1208.94,Net Banking,4
+ORD0701,2025-01-02,CUST1099,Headphones,Accessories,East,Bhubaneswar,6,2612.37,0.0,15674.22,4262.98,Net Banking,1
+ORD0702,2025-11-20,CUST1246,Office Chair,Furniture,Central,Nagpur,3,9246.83,0.1,24966.44,5544.69,UPI,3
+ORD0703,2025-04-01,CUST1142,Backpack,Bags,West,Ahmedabad,1,1898.26,0.1,1708.43,285.57,UPI,4
+ORD0704,2025-07-03,CUST1125,Desk,Furniture,South,Hyderabad,3,12376.09,0.0,37128.27,9426.0,UPI,4
+ORD0705,2025-10-31,CUST1062,Webcam,Accessories,South,Hyderabad,2,3239.99,0.0,6479.98,1529.61,Net Banking,4
+ORD0706,2025-08-19,CUST1248,Smartphone,Electronics,Central,Nagpur,6,27138.63,0.2,130265.42,-2115.31,UPI,1
+ORD0707,2025-04-19,CUST1207,Mouse,Accessories,North,Jaipur,3,941.44,0.0,2824.32,844.18,Cash on Delivery,4
+ORD0708,2025-01-19,CUST1189,Desk,Furniture,Central,Nagpur,2,12462.82,0.05,23679.36,3615.14,Credit Card,4
+ORD0709,2025-12-26,CUST1167,Desk,Furniture,North,Delhi,4,12781.78,0.2,40901.7,8734.54,Credit Card,1
+ORD0710,2025-03-29,CUST1214,Monitor,Electronics,North,Jaipur,3,18923.73,0.0,56771.19,16393.42,Cash on Delivery,1
+ORD0711,2025-04-14,CUST1110,Smartphone,Electronics,North,Chandigarh,4,28425.5,0.2,90961.6,15450.45,Debit Card,4
+ORD0712,2025-04-20,CUST1196,Mouse,Accessories,North,Chandigarh,6,910.94,0.05,5192.36,1452.12,UPI,5
+ORD0713,2025-03-28,CUST1179,Monitor,Electronics,West,Ahmedabad,1,16907.75,0.05,16062.36,3017.86,Debit Card,5
+ORD0714,2025-11-20,CUST1157,Monitor,Electronics,Central,Bhopal,2,19225.95,0.0,38451.9,13586.05,Net Banking,2
+ORD0715,2025-12-28,CUST1167,Laptop,Electronics,Central,Indore,1,50655.88,0.05,48123.09,7333.59,Cash on Delivery,3
+ORD0716,2025-09-25,CUST1116,Headphones,Accessories,Central,Indore,6,2350.76,0.05,13399.33,2849.61,Net Banking,2
+ORD0717,2025-02-15,CUST1161,Monitor,Electronics,North,Jaipur,5,17078.4,0.15,72583.2,9187.33,Debit Card,3
+ORD0718,2025-02-18,CUST1159,Headphones,Accessories,North,Delhi,5,2394.26,0.0,11971.3,2186.91,Debit Card,5
+ORD0719,2025-04-10,CUST1029,Backpack,Bags,South,Kochi,4,1877.86,0.05,7135.87,2063.5,Credit Card,4
+ORD0720,2025-07-06,CUST1073,Printer,Electronics,South,Chennai,2,12326.67,0.0,24653.34,9101.88,Credit Card,4
+ORD0721,2025-01-27,CUST1237,Keyboard,Accessories,West,Ahmedabad,5,1887.88,0.15,8023.49,2089.28,Cash on Delivery,2
+ORD0722,2025-08-16,CUST1152,Monitor,Electronics,North,Delhi,4,18042.92,0.0,72171.68,14505.36,Cash on Delivery,3
+ORD0723,2025-02-26,CUST1084,Headphones,Accessories,South,Hyderabad,6,2570.74,0.1,13882.0,3609.13,Credit Card,1
+ORD0724,2025-10-27,CUST1125,Tablet,Electronics,East,Patna,2,21561.87,0.05,40967.55,13596.66,UPI,4
+ORD0725,2025-08-23,CUST1185,Monitor,Electronics,South,Hyderabad,5,17870.37,0.15,75949.07,13876.61,Credit Card,3
+ORD0726,2025-03-11,CUST1029,Keyboard,Accessories,South,Hyderabad,3,1692.64,0.2,4062.34,853.45,Net Banking,4
+ORD0727,2025-11-23,CUST1244,Headphones,Accessories,South,Chennai,3,2387.94,0.1,6447.44,1141.0,Cash on Delivery,2
+ORD0728,2025-04-21,CUST1152,Office Chair,Furniture,Central,Nagpur,2,8871.44,0.2,14194.3,1457.7,Net Banking,4
+ORD0729,2025-08-11,CUST1149,Keyboard,Accessories,North,Delhi,6,1779.3,0.05,10142.01,2993.85,Credit Card,5
+ORD0730,2025-09-16,CUST1009,Monitor,Electronics,North,Delhi,4,19382.93,0.0,77531.72,14091.03,Net Banking,5
+ORD0731,2025-02-12,CUST1143,Headphones,Accessories,Central,Indore,6,2628.52,0.15,13405.45,2065.12,UPI,4
+ORD0732,2025-12-09,CUST1079,Tablet,Electronics,South,Bengaluru,3,21281.18,0.0,63843.54,24057.14,Credit Card,4
+ORD0733,2025-07-27,CUST1048,Office Chair,Furniture,North,Delhi,4,9444.92,0.05,35890.7,5861.91,Debit Card,4
+ORD0734,2025-06-01,CUST1110,Webcam,Accessories,North,Delhi,6,3259.59,0.1,17601.79,3399.42,Debit Card,5
+ORD0735,2025-01-29,CUST1132,Backpack,Bags,South,Hyderabad,6,1679.32,0.1,9068.33,1338.57,Debit Card,1
+ORD0736,2025-03-31,CUST1166,Smartphone,Electronics,East,Bhubaneswar,3,27844.78,0.0,83534.34,25635.5,Cash on Delivery,1
+ORD0737,2025-11-29,CUST1123,Backpack,Bags,South,Hyderabad,2,1938.6,0.05,3683.34,861.02,Cash on Delivery,2
+ORD0738,2025-08-05,CUST1071,Webcam,Accessories,South,Kochi,3,3417.52,0.1,9227.3,1838.14,UPI,1
+ORD0739,2025-08-29,CUST1182,Mouse,Accessories,East,Kolkata,4,898.02,0.2,2873.66,50.6,Cash on Delivery,5
+ORD0740,2025-08-23,CUST1023,Keyboard,Accessories,Central,Bhopal,5,1762.03,0.0,8810.15,3015.97,UPI,4
+ORD0741,2025-03-17,CUST1128,Monitor,Electronics,West,Pune,1,16874.97,0.1,15187.47,4346.91,Credit Card,2
+ORD0742,2025-08-31,CUST1089,Backpack,Bags,North,Delhi,3,1775.96,0.2,4262.3,-33.81,Net Banking,4
+ORD0743,2025-04-29,CUST1214,Webcam,Accessories,North,Delhi,3,3325.87,0.0,9977.61,2051.81,Cash on Delivery,3
+ORD0744,2025-12-07,CUST1179,Headphones,Accessories,West,Ahmedabad,6,2558.42,0.1,13815.47,2805.62,Cash on Delivery,5
+ORD0745,2025-05-14,CUST1059,Printer,Electronics,Central,Bhopal,3,12129.12,0.1,32748.62,8938.64,Net Banking,3
+ORD0746,2025-11-13,CUST1237,Keyboard,Accessories,North,Jaipur,2,1757.7,0.15,2988.09,136.25,Credit Card,5
+ORD0747,2025-03-01,CUST1011,Keyboard,Accessories,South,Chennai,2,1897.73,0.05,3605.69,1130.1,Debit Card,5
+ORD0748,2025-01-18,CUST1171,Monitor,Electronics,Central,Bhopal,3,17624.66,0.05,50230.28,11500.22,Debit Card,3
+ORD0749,2025-03-04,CUST1236,Monitor,Electronics,East,Kolkata,4,18114.82,0.05,68836.32,16178.09,UPI,4
+ORD0750,2025-10-07,CUST1250,Printer,Electronics,South,Bengaluru,4,12821.4,0.05,48721.32,16880.2,Cash on Delivery,3
+ORD0751,2025-10-17,CUST1187,Desk,Furniture,West,Pune,4,12760.28,0.2,40832.9,2379.67,Net Banking,3
+ORD0752,2025-10-10,CUST1030,Webcam,Accessories,North,Chandigarh,6,3488.23,0.0,20929.38,7369.56,Debit Card,1
+ORD0753,2025-11-25,CUST1050,Headphones,Accessories,South,Kochi,4,2442.96,0.1,8794.66,2628.56,Cash on Delivery,5
+ORD0754,2025-12-13,CUST1172,Tablet,Electronics,West,Mumbai,2,20319.37,0.2,32510.99,410.84,UPI,5
+ORD0755,2025-01-29,CUST1233,Headphones,Accessories,South,Hyderabad,4,2427.1,0.2,7766.72,754.23,Debit Card,4
+ORD0756,2025-06-29,CUST1079,Monitor,Electronics,East,Patna,3,17672.0,0.0,53016.0,17127.88,Net Banking,5
+ORD0757,2025-05-28,CUST1042,Smartphone,Electronics,South,Hyderabad,6,29737.37,0.15,151660.59,12358.18,Net Banking,4
+ORD0758,2025-09-26,CUST1086,Monitor,Electronics,North,Lucknow,2,17158.42,0.15,29169.31,1109.24,UPI,5
+ORD0759,2025-10-12,CUST1119,Headphones,Accessories,North,Lucknow,1,2463.78,0.1,2217.4,485.6,Cash on Delivery,2
+ORD0760,2025-06-04,CUST1214,Tablet,Electronics,South,Chennai,4,21258.91,0.15,72280.29,18839.93,Cash on Delivery,3
+ORD0761,2025-03-20,CUST1068,Printer,Electronics,Central,Nagpur,6,11929.83,0.0,71578.98,15873.07,Debit Card,4
+ORD0762,2025-05-22,CUST1127,Smartphone,Electronics,West,Pune,4,26563.59,0.05,100941.64,34459.51,UPI,5
+ORD0763,2025-11-18,CUST1176,Webcam,Accessories,East,Kolkata,5,3489.07,0.15,14828.55,982.71,Net Banking,1
+ORD0764,2025-01-30,CUST1038,Mouse,Accessories,Central,Varanasi,6,910.84,0.1,4918.54,1352.22,Debit Card,4
+ORD0765,2025-11-22,CUST1234,Webcam,Accessories,South,Bengaluru,3,3311.45,0.1,8940.91,2064.03,Debit Card,1
+ORD0766,2025-11-18,CUST1047,Keyboard,Accessories,West,Pune,5,1840.02,0.0,9200.1,2550.51,UPI,5
+ORD0767,2025-12-24,CUST1177,Monitor,Electronics,Central,Nagpur,3,19072.64,0.1,51496.13,12914.56,Debit Card,1
+ORD0768,2025-09-06,CUST1106,Backpack,Bags,East,Kolkata,2,1659.71,0.2,2655.54,410.67,Debit Card,2
+ORD0769,2025-10-14,CUST1158,Smartphone,Electronics,South,Hyderabad,2,28015.16,0.05,53228.8,9579.98,Cash on Delivery,5
+ORD0770,2025-02-09,CUST1030,Webcam,Accessories,Central,Nagpur,6,3643.53,0.0,21861.18,6482.51,Credit Card,1
+ORD0771,2025-11-02,CUST1134,Printer,Electronics,East,Kolkata,3,12366.82,0.05,35245.44,6180.65,Debit Card,2
+ORD0772,2025-12-22,CUST1037,Webcam,Accessories,West,Pune,1,3636.9,0.0,3636.9,1220.28,Credit Card,3
+ORD0773,2025-02-27,CUST1020,Monitor,Electronics,South,Hyderabad,2,19385.6,0.15,32955.52,3560.61,UPI,4
+ORD0774,2025-08-29,CUST1031,Headphones,Accessories,North,Jaipur,2,2343.13,0.2,3749.01,287.57,Debit Card,1
+ORD0775,2025-11-05,CUST1053,Smartphone,Electronics,West,Pune,6,25806.02,0.0,154836.12,34609.87,Cash on Delivery,2
+ORD0776,2025-06-28,CUST1091,Monitor,Electronics,East,Kolkata,1,16821.44,0.1,15139.3,1518.0,Credit Card,5
+ORD0777,2025-01-08,CUST1136,Webcam,Accessories,South,Kochi,5,3539.33,0.0,17696.65,3823.94,Credit Card,2
+ORD0778,2025-09-16,CUST1218,Keyboard,Accessories,South,Chennai,5,1657.25,0.0,8286.25,1617.09,Net Banking,3
+ORD0779,2025-07-01,CUST1098,Webcam,Accessories,South,Chennai,4,3597.17,0.0,14388.68,4947.26,Net Banking,2
+ORD0780,2025-02-26,CUST1134,Backpack,Bags,South,Kochi,4,1688.5,0.1,6078.6,1724.14,Credit Card,4
+ORD0781,2025-03-01,CUST1099,Mouse,Accessories,West,Pune,5,931.99,0.0,4659.95,1464.98,Debit Card,4
+ORD0782,2025-07-28,CUST1075,Office Chair,Furniture,West,Pune,6,10223.79,0.15,52141.33,11337.69,Net Banking,2
+ORD0783,2025-09-09,CUST1173,Smartphone,Electronics,Central,Indore,6,27406.14,0.0,164436.84,29640.62,UPI,4
+ORD0784,2025-07-25,CUST1178,Printer,Electronics,Central,Varanasi,6,12338.92,0.0,74033.52,26009.94,Cash on Delivery,1
+ORD0785,2025-11-01,CUST1217,Webcam,Accessories,South,Chennai,1,3423.68,0.05,3252.5,897.95,Net Banking,1
+ORD0786,2025-11-26,CUST1242,Tablet,Electronics,East,Patna,6,21996.87,0.2,105584.98,8086.49,Net Banking,3
+ORD0787,2025-02-25,CUST1032,Printer,Electronics,East,Bhubaneswar,4,12021.92,0.05,45683.3,8482.68,Debit Card,4
+ORD0788,2025-01-28,CUST1213,Printer,Electronics,South,Kochi,6,12849.41,0.0,77096.46,27760.84,UPI,4
+ORD0789,2025-11-15,CUST1160,Desk,Furniture,North,Delhi,2,11774.66,0.1,21194.39,5874.44,UPI,1
+ORD0790,2025-09-12,CUST1126,Desk,Furniture,Central,Varanasi,4,12562.04,0.05,47735.75,13631.69,Cash on Delivery,3
+ORD0791,2025-03-02,CUST1099,Backpack,Bags,West,Ahmedabad,5,1813.43,0.0,9067.15,1648.93,Net Banking,3
+ORD0792,2025-06-05,CUST1227,Headphones,Accessories,Central,Bhopal,4,2314.39,0.05,8794.68,2024.32,Credit Card,4
+ORD0793,2025-10-19,CUST1173,Headphones,Accessories,South,Bengaluru,3,2586.29,0.15,6595.04,598.97,Net Banking,5
+ORD0794,2025-09-17,CUST1015,Desk,Furniture,Central,Nagpur,5,11942.05,0.2,47768.2,545.14,Net Banking,3
+ORD0795,2025-01-15,CUST1152,Printer,Electronics,East,Bhubaneswar,5,12338.86,0.1,55524.87,13320.01,UPI,2
+ORD0796,2025-08-08,CUST1089,Mouse,Accessories,East,Kolkata,6,912.09,0.1,4925.29,1115.77,Debit Card,4
+ORD0797,2025-10-31,CUST1022,Mouse,Accessories,North,Jaipur,6,863.17,0.05,4920.07,1037.79,UPI,3
+ORD0798,2025-12-03,CUST1222,Smartphone,Electronics,West,Ahmedabad,2,25848.31,0.1,46526.96,14088.6,Net Banking,5
+ORD0799,2025-06-12,CUST1097,Backpack,Bags,East,Patna,3,1661.88,0.15,4237.79,560.39,Cash on Delivery,4
+ORD0800,2025-09-15,CUST1208,Mouse,Accessories,North,Chandigarh,4,842.41,0.05,3201.16,885.57,Debit Card,2
+ORD0801,2025-02-08,CUST1216,Office Chair,Furniture,West,Pune,3,10213.53,0.05,29108.56,7066.02,Cash on Delivery,2
+ORD0802,2025-04-26,CUST1160,Keyboard,Accessories,West,Mumbai,1,1741.63,0.2,1393.3,173.45,UPI,5
+ORD0803,2025-04-18,CUST1089,Smartphone,Electronics,West,Ahmedabad,3,26061.37,0.2,62547.29,6641.45,UPI,3
+ORD0804,2025-07-25,CUST1065,Backpack,Bags,West,Pune,4,1847.08,0.1,6649.49,1773.09,Cash on Delivery,5
+ORD0805,2025-10-23,CUST1128,Printer,Electronics,Central,Nagpur,2,12731.32,0.2,20370.11,189.9,Credit Card,4
+ORD0806,2025-11-17,CUST1016,Keyboard,Accessories,Central,Nagpur,5,1901.6,0.15,8081.8,409.54,Cash on Delivery,2
+ORD0807,2025-07-30,CUST1082,Mouse,Accessories,Central,Bhopal,2,862.61,0.1,1552.7,191.8,UPI,2
+ORD0808,2025-05-01,CUST1104,Headphones,Accessories,West,Mumbai,3,2558.42,0.1,6907.73,1094.71,Credit Card,1
+ORD0809,2025-10-14,CUST1112,Monitor,Electronics,South,Hyderabad,1,17267.29,0.1,15540.56,3231.88,Net Banking,1
+ORD0810,2025-05-23,CUST1169,Tablet,Electronics,South,Chennai,3,20720.24,0.1,55944.65,7587.71,Cash on Delivery,2
+ORD0811,2025-02-12,CUST1081,Desk,Furniture,North,Jaipur,6,11972.82,0.0,71836.92,26503.12,Cash on Delivery,3
+ORD0812,2025-03-13,CUST1061,Smartphone,Electronics,East,Patna,3,28769.09,0.0,86307.27,25945.78,UPI,5
+ORD0813,2025-09-26,CUST1065,Webcam,Accessories,Central,Varanasi,1,3512.3,0.2,2809.84,-34.89,Net Banking,1
+ORD0814,2025-05-01,CUST1240,Tablet,Electronics,North,Chandigarh,3,21399.09,0.2,51357.82,2089.8,Net Banking,2
+ORD0815,2025-05-11,CUST1221,Monitor,Electronics,North,Chandigarh,2,17176.63,0.1,30917.93,6599.43,Cash on Delivery,1
+ORD0816,2025-08-05,CUST1122,Printer,Electronics,Central,Nagpur,3,12383.27,0.0,37149.81,11765.42,Credit Card,3
+ORD0817,2025-11-07,CUST1009,Monitor,Electronics,East,Kolkata,4,18621.13,0.1,67036.07,20541.73,UPI,2
+ORD0818,2025-12-17,CUST1032,Keyboard,Accessories,Central,Nagpur,4,1745.07,0.1,6282.25,693.62,Cash on Delivery,2
+ORD0819,2025-05-11,CUST1078,Printer,Electronics,East,Bhubaneswar,1,12786.8,0.15,10868.78,568.99,UPI,2
+ORD0820,2025-11-26,CUST1105,Keyboard,Accessories,South,Hyderabad,2,1919.78,0.1,3455.6,399.72,UPI,3
+ORD0821,2025-02-21,CUST1212,Smartphone,Electronics,Central,Indore,4,29061.5,0.1,104621.4,15870.23,Credit Card,3
+ORD0822,2025-08-21,CUST1178,Backpack,Bags,North,Lucknow,3,1777.21,0.2,4265.3,172.97,UPI,1
+ORD0823,2025-04-13,CUST1161,Desk,Furniture,South,Chennai,6,11891.34,0.05,67780.64,23500.96,Debit Card,3
+ORD0824,2025-11-29,CUST1196,Office Chair,Furniture,North,Lucknow,1,8979.89,0.2,7183.91,334.83,Credit Card,5
+ORD0825,2025-12-18,CUST1152,Desk,Furniture,East,Patna,3,11906.86,0.05,33934.55,9925.46,Debit Card,3
+ORD0826,2025-10-20,CUST1058,Tablet,Electronics,North,Lucknow,4,21533.95,0.15,73215.43,4713.52,UPI,1
+ORD0827,2025-03-28,CUST1013,Backpack,Bags,South,Kochi,1,1936.55,0.05,1839.72,537.67,Net Banking,5
+ORD0828,2025-10-18,CUST1031,Headphones,Accessories,West,Mumbai,2,2335.62,0.1,4204.12,1149.01,UPI,5
+ORD0829,2025-04-08,CUST1243,Headphones,Accessories,Central,Bhopal,6,2497.66,0.05,14236.66,2806.68,Debit Card,3
+ORD0830,2025-05-25,CUST1187,Webcam,Accessories,Central,Indore,4,3292.91,0.05,12513.06,2765.83,Credit Card,4
+ORD0831,2025-08-19,CUST1233,Monitor,Electronics,East,Patna,2,16642.87,0.1,29957.17,7752.35,Credit Card,3
+ORD0832,2025-12-21,CUST1102,Office Chair,Furniture,Central,Bhopal,1,8755.69,0.05,8317.91,1363.36,Credit Card,4
+ORD0833,2025-01-31,CUST1014,Webcam,Accessories,East,Patna,6,3554.43,0.0,21326.58,7697.7,Debit Card,2
+ORD0834,2025-01-24,CUST1002,Printer,Electronics,East,Kolkata,5,12843.5,0.2,51374.0,2445.84,Debit Card,5
+ORD0835,2025-10-14,CUST1011,Office Chair,Furniture,East,Bhubaneswar,3,10225.84,0.1,27609.77,7778.36,Cash on Delivery,2
+ORD0836,2025-03-09,CUST1023,Keyboard,Accessories,South,Chennai,5,1797.94,0.1,8090.73,938.71,Debit Card,5
+ORD0837,2025-09-13,CUST1224,Headphones,Accessories,South,Bengaluru,3,2346.74,0.0,7040.22,1297.49,Debit Card,3
+ORD0838,2025-08-12,CUST1229,Headphones,Accessories,West,Pune,3,2545.17,0.1,6871.96,1348.47,Credit Card,3
+ORD0839,2025-03-18,CUST1014,Webcam,Accessories,Central,Indore,2,3531.18,0.15,6003.01,1549.17,Credit Card,2
+ORD0840,2025-09-11,CUST1011,Laptop,Electronics,Central,Indore,3,52039.28,0.15,132700.16,22280.2,Net Banking,3
+ORD0841,2025-03-17,CUST1032,Webcam,Accessories,Central,Nagpur,4,3476.35,0.0,13905.4,2931.71,Debit Card,1
+ORD0842,2025-10-16,CUST1229,Tablet,Electronics,West,Pune,2,23179.04,0.2,37086.46,717.88,Cash on Delivery,2
+ORD0843,2025-02-09,CUST1064,Office Chair,Furniture,North,Delhi,5,9905.61,0.05,47051.65,12219.37,Net Banking,1
+ORD0844,2025-10-30,CUST1238,Mouse,Accessories,North,Delhi,3,926.11,0.0,2778.33,836.74,UPI,3
+ORD0845,2025-05-18,CUST1153,Monitor,Electronics,North,Delhi,1,17885.47,0.15,15202.65,2489.46,UPI,3
+ORD0846,2025-01-25,CUST1206,Laptop,Electronics,Central,Bhopal,3,58937.28,0.2,141449.47,27253.06,Debit Card,3
+ORD0847,2025-05-11,CUST1046,Laptop,Electronics,North,Lucknow,5,58976.72,0.15,250651.06,62364.87,Credit Card,4
+ORD0848,2025-12-01,CUST1040,Smartphone,Electronics,North,Delhi,2,26489.97,0.15,45032.95,9166.21,UPI,3
+ORD0849,2025-11-05,CUST1034,Printer,Electronics,East,Patna,6,12588.2,0.1,67976.28,7496.51,Debit Card,1
+ORD0850,2025-10-16,CUST1154,Mouse,Accessories,Central,Varanasi,2,898.51,0.15,1527.47,242.08,Net Banking,1
+ORD0851,2025-09-20,CUST1088,Headphones,Accessories,East,Kolkata,5,2374.54,0.15,10091.8,2510.02,Net Banking,2
+ORD0852,2025-08-28,CUST1112,Desk,Furniture,South,Bengaluru,4,12052.38,0.2,38567.62,7868.09,UPI,4
+ORD0853,2025-09-25,CUST1110,Keyboard,Accessories,South,Bengaluru,2,1853.08,0.1,3335.54,413.95,Debit Card,5
+ORD0854,2025-08-06,CUST1106,Laptop,Electronics,Central,Nagpur,1,58672.26,0.2,46937.81,9298.0,UPI,4
+ORD0855,2025-01-09,CUST1030,Desk,Furniture,West,Mumbai,3,11529.33,0.0,34587.99,7826.25,Net Banking,2
+ORD0856,2025-08-21,CUST1194,Monitor,Electronics,East,Bhubaneswar,1,16799.88,0.1,15119.89,3649.11,Net Banking,5
+ORD0857,2025-11-06,CUST1067,Keyboard,Accessories,West,Ahmedabad,2,1716.79,0.0,3433.58,791.76,UPI,4
+ORD0858,2025-09-02,CUST1118,Backpack,Bags,North,Delhi,1,1769.74,0.0,1769.74,611.72,Net Banking,5
+ORD0859,2025-12-11,CUST1247,Webcam,Accessories,Central,Indore,3,3566.36,0.2,8559.26,1153.94,Net Banking,3
+ORD0860,2025-12-23,CUST1249,Smartphone,Electronics,South,Bengaluru,2,25822.16,0.0,51644.32,11196.82,Credit Card,1
+ORD0861,2025-11-17,CUST1220,Tablet,Electronics,Central,Indore,6,20750.94,0.05,118280.36,30235.24,Cash on Delivery,2
+ORD0862,2025-03-27,CUST1232,Smartphone,Electronics,West,Pune,4,26423.78,0.15,89840.85,23848.69,Credit Card,4
+ORD0863,2025-05-31,CUST1146,Printer,Electronics,Central,Indore,1,12690.81,0.2,10152.65,1668.51,Net Banking,1
+ORD0864,2025-09-11,CUST1189,Mouse,Accessories,North,Delhi,1,918.78,0.15,780.96,31.33,Cash on Delivery,5
+ORD0865,2025-10-30,CUST1186,Webcam,Accessories,Central,Nagpur,3,3240.73,0.15,8263.86,1290.91,Cash on Delivery,4
+ORD0866,2025-02-02,CUST1069,Tablet,Electronics,North,Jaipur,5,20306.95,0.2,81227.8,11862.3,Net Banking,4
+ORD0867,2025-08-12,CUST1006,Smartphone,Electronics,Central,Indore,5,29966.56,0.1,134849.52,28518.41,Credit Card,3
+ORD0868,2025-10-28,CUST1233,Webcam,Accessories,South,Hyderabad,4,3412.55,0.05,12967.69,3118.7,Debit Card,5
+ORD0869,2025-12-11,CUST1168,Webcam,Accessories,Central,Bhopal,2,3714.58,0.15,6314.79,282.6,Debit Card,4
+ORD0870,2025-03-08,CUST1045,Monitor,Electronics,South,Hyderabad,3,18549.21,0.0,55647.63,13722.08,Credit Card,2
+ORD0871,2025-04-18,CUST1143,Office Chair,Furniture,Central,Indore,1,9946.09,0.15,8454.18,1683.57,UPI,1
+ORD0872,2025-09-15,CUST1009,Mouse,Accessories,West,Mumbai,3,925.48,0.05,2637.62,456.48,UPI,3
+ORD0873,2025-05-13,CUST1088,Headphones,Accessories,North,Chandigarh,5,2390.68,0.2,9562.72,1615.87,Debit Card,1
+ORD0874,2025-02-23,CUST1181,Backpack,Bags,West,Mumbai,2,1901.78,0.2,3042.85,224.95,UPI,4
+ORD0875,2025-02-22,CUST1211,Printer,Electronics,North,Chandigarh,1,12540.77,0.2,10032.62,295.57,Cash on Delivery,1
+ORD0876,2025-03-22,CUST1187,Backpack,Bags,North,Chandigarh,2,1837.42,0.05,3491.1,543.15,Debit Card,4
+ORD0877,2025-06-21,CUST1210,Backpack,Bags,Central,Indore,6,1906.7,0.05,10868.19,2294.69,Credit Card,1
+ORD0878,2025-08-31,CUST1088,Tablet,Electronics,Central,Bhopal,4,22947.65,0.0,91790.6,30376.89,Debit Card,5
+ORD0879,2025-12-07,CUST1063,Monitor,Electronics,North,Lucknow,3,17632.62,0.15,44963.18,8351.05,Credit Card,5
+ORD0880,2025-08-23,CUST1244,Headphones,Accessories,South,Kochi,2,2620.71,0.15,4455.21,243.18,Cash on Delivery,3
+ORD0881,2025-02-13,CUST1087,Laptop,Electronics,Central,Bhopal,2,57377.34,0.2,91803.74,-1001.65,Debit Card,4
+ORD0882,2025-11-25,CUST1039,Monitor,Electronics,East,Patna,1,17692.61,0.0,17692.61,4387.14,Cash on Delivery,1
+ORD0883,2025-06-10,CUST1233,Desk,Furniture,Central,Varanasi,3,11845.07,0.2,28428.17,188.01,Debit Card,1
+ORD0884,2025-04-16,CUST1228,Keyboard,Accessories,Central,Varanasi,5,1921.09,0.15,8164.63,1352.08,Cash on Delivery,5
+ORD0885,2025-06-04,CUST1022,Office Chair,Furniture,Central,Bhopal,6,9264.78,0.15,47250.38,4164.7,UPI,5
+ORD0886,2025-10-04,CUST1073,Mouse,Accessories,East,Bhubaneswar,6,931.52,0.05,5309.66,1262.61,Credit Card,1
+ORD0887,2025-10-04,CUST1152,Backpack,Bags,Central,Nagpur,3,1806.14,0.05,5147.5,1762.7,Debit Card,2
+ORD0888,2025-05-13,CUST1161,Keyboard,Accessories,East,Patna,5,1687.81,0.0,8439.05,1786.41,Cash on Delivery,3
+ORD0889,2025-01-03,CUST1117,Smartphone,Electronics,North,Jaipur,6,29977.22,0.15,152883.82,30650.11,Debit Card,2
+ORD0890,2025-10-21,CUST1173,Webcam,Accessories,Central,Nagpur,5,3350.95,0.1,15079.27,3737.86,Credit Card,4
+ORD0891,2025-07-04,CUST1117,Backpack,Bags,South,Kochi,1,1750.42,0.2,1400.34,247.67,UPI,2
+ORD0892,2025-03-08,CUST1122,Webcam,Accessories,East,Patna,4,3265.89,0.0,13063.56,3854.05,Credit Card,4
+ORD0893,2025-07-22,CUST1224,Smartphone,Electronics,East,Kolkata,6,28117.63,0.2,134964.62,11506.79,Debit Card,5
+ORD0894,2025-08-02,CUST1211,Printer,Electronics,East,Patna,4,12362.91,0.15,42033.89,4136.95,Credit Card,2
+ORD0895,2025-09-20,CUST1221,Backpack,Bags,South,Bengaluru,4,1860.81,0.05,7071.08,1015.21,Cash on Delivery,1
+ORD0896,2025-07-09,CUST1236,Webcam,Accessories,South,Hyderabad,4,3485.08,0.05,13243.3,1968.18,UPI,5
+ORD0897,2025-03-20,CUST1031,Headphones,Accessories,North,Chandigarh,1,2447.83,0.1,2203.05,665.67,Debit Card,3
+ORD0898,2025-10-29,CUST1108,Mouse,Accessories,West,Pune,3,897.97,0.05,2559.21,812.4,UPI,3
+ORD0899,2025-10-08,CUST1090,Keyboard,Accessories,South,Hyderabad,2,1891.91,0.15,3216.25,868.7,UPI,1
+ORD0900,2025-07-13,CUST1122,Headphones,Accessories,Central,Indore,5,2423.88,0.15,10301.49,605.27,Cash on Delivery,2
+ORD0901,2025-03-18,CUST1222,Monitor,Electronics,Central,Varanasi,6,17887.5,0.15,91226.25,10362.86,Debit Card,1
+ORD0902,2025-01-24,CUST1246,Office Chair,Furniture,East,Patna,4,9093.89,0.15,30919.23,5900.14,Net Banking,3
+ORD0903,2025-12-29,CUST1080,Desk,Furniture,North,Lucknow,2,12397.84,0.2,19836.54,1338.42,Cash on Delivery,1
+ORD0904,2025-01-28,CUST1246,Desk,Furniture,Central,Nagpur,1,11409.46,0.2,9127.57,817.3,Cash on Delivery,5
+ORD0905,2025-09-30,CUST1047,Tablet,Electronics,Central,Indore,5,23396.96,0.0,116984.8,29053.07,UPI,3
+ORD0906,2025-10-01,CUST1156,Tablet,Electronics,South,Kochi,6,23192.99,0.2,111326.35,12684.82,Debit Card,4
+ORD0907,2025-04-03,CUST1107,Office Chair,Furniture,North,Jaipur,4,10050.2,0.0,40200.8,12543.0,UPI,5
+ORD0908,2025-05-27,CUST1037,Mouse,Accessories,East,Bhubaneswar,3,841.11,0.0,2523.33,685.45,Credit Card,3
+ORD0909,2025-06-16,CUST1047,Smartphone,Electronics,South,Bengaluru,3,30025.7,0.05,85573.24,28664.08,UPI,1
+ORD0910,2025-05-13,CUST1097,Keyboard,Accessories,East,Bhubaneswar,1,1748.17,0.15,1485.94,89.85,UPI,1
+ORD0911,2025-09-16,CUST1099,Tablet,Electronics,South,Kochi,5,22302.82,0.15,94786.99,14304.56,UPI,3
+ORD0912,2025-07-28,CUST1163,Laptop,Electronics,West,Ahmedabad,4,55467.47,0.0,221869.88,62825.94,Credit Card,1
+ORD0913,2025-11-30,CUST1202,Keyboard,Accessories,Central,Nagpur,5,1850.43,0.05,8789.54,1641.37,Credit Card,3
+ORD0914,2025-03-14,CUST1096,Office Chair,Furniture,East,Patna,4,8867.54,0.2,28376.13,4941.3,Cash on Delivery,2
+ORD0915,2025-01-01,CUST1209,Tablet,Electronics,Central,Nagpur,4,23623.96,0.2,75596.67,8471.7,Net Banking,5
+ORD0916,2025-05-09,CUST1215,Keyboard,Accessories,South,Chennai,1,1673.33,0.15,1422.33,293.4,Net Banking,3
+ORD0917,2025-10-01,CUST1145,Desk,Furniture,South,Hyderabad,5,12654.11,0.1,56943.5,17140.19,UPI,3
+ORD0918,2025-05-24,CUST1225,Smartphone,Electronics,East,Bhubaneswar,6,26310.94,0.05,149972.36,29202.82,Net Banking,2
+ORD0919,2025-12-29,CUST1116,Office Chair,Furniture,Central,Varanasi,3,10083.58,0.1,27225.67,4627.34,Debit Card,2
+ORD0920,2025-12-21,CUST1035,Desk,Furniture,West,Ahmedabad,3,11444.4,0.2,27466.56,3924.58,UPI,5
+ORD0921,2025-12-23,CUST1181,Printer,Electronics,North,Delhi,1,12331.6,0.15,10481.86,1465.51,Net Banking,4
+ORD0922,2025-12-10,CUST1114,Backpack,Bags,North,Lucknow,6,1843.56,0.2,8849.09,1922.58,UPI,3
+ORD0923,2025-07-09,CUST1240,Headphones,Accessories,East,Kolkata,4,2370.87,0.0,9483.48,3367.08,Credit Card,4
+ORD0924,2025-12-30,CUST1092,Laptop,Electronics,South,Kochi,6,50774.08,0.1,274180.03,43835.03,Credit Card,1
+ORD0925,2025-01-19,CUST1072,Office Chair,Furniture,West,Pune,6,9076.14,0.15,46288.31,1989.89,Net Banking,5
+ORD0926,2025-05-23,CUST1146,Tablet,Electronics,North,Delhi,2,23704.61,0.15,40297.84,9852.15,Cash on Delivery,4
+ORD0927,2025-11-05,CUST1145,Monitor,Electronics,Central,Nagpur,2,18460.33,0.2,29536.53,1682.29,Credit Card,1
+ORD0928,2025-04-27,CUST1226,Office Chair,Furniture,South,Bengaluru,6,8838.87,0.1,47729.9,4947.33,Cash on Delivery,3
+ORD0929,2025-10-14,CUST1227,Tablet,Electronics,North,Delhi,6,22625.63,0.2,108603.02,17568.68,Net Banking,1
+ORD0930,2025-12-15,CUST1133,Headphones,Accessories,North,Jaipur,3,2473.02,0.15,6306.2,1299.77,Net Banking,4
+ORD0931,2025-08-04,CUST1137,Mouse,Accessories,Central,Varanasi,1,955.27,0.05,907.51,306.27,Net Banking,3
+ORD0932,2025-04-26,CUST1177,Laptop,Electronics,East,Bhubaneswar,2,53545.41,0.2,85672.66,1977.48,Net Banking,1
+ORD0933,2025-02-19,CUST1008,Tablet,Electronics,South,Hyderabad,2,21398.87,0.0,42797.74,10904.91,Net Banking,4
+ORD0934,2025-06-24,CUST1214,Laptop,Electronics,West,Ahmedabad,3,52774.95,0.15,134576.12,28867.08,UPI,3
+ORD0935,2025-02-18,CUST1161,Backpack,Bags,South,Kochi,1,1879.42,0.2,1503.54,173.46,Net Banking,5
+ORD0936,2025-12-22,CUST1017,Smartphone,Electronics,North,Lucknow,1,29866.88,0.15,25386.85,4998.05,Credit Card,1
+ORD0937,2025-12-13,CUST1015,Printer,Electronics,North,Jaipur,3,12212.62,0.15,31142.18,7944.62,Cash on Delivery,1
+ORD0938,2025-11-03,CUST1202,Keyboard,Accessories,East,Bhubaneswar,4,1683.6,0.15,5724.24,1234.94,Cash on Delivery,1
+ORD0939,2025-06-23,CUST1167,Printer,Electronics,East,Bhubaneswar,4,12566.72,0.2,40213.5,2822.68,UPI,4
+ORD0940,2025-02-04,CUST1152,Backpack,Bags,West,Ahmedabad,5,1711.43,0.0,8557.15,3230.69,Credit Card,5
+ORD0941,2025-08-16,CUST1048,Monitor,Electronics,Central,Varanasi,3,17583.53,0.15,44838.0,4487.78,Credit Card,2
+ORD0942,2025-11-30,CUST1194,Laptop,Electronics,North,Jaipur,2,53342.67,0.15,90682.54,13589.03,Debit Card,3
+ORD0943,2025-05-30,CUST1095,Office Chair,Furniture,Central,Nagpur,2,8964.06,0.1,16135.31,2856.56,UPI,5
+ORD0944,2025-08-05,CUST1089,Office Chair,Furniture,South,Bengaluru,1,9100.83,0.2,7280.66,75.16,Credit Card,2
+ORD0945,2025-08-28,CUST1154,Desk,Furniture,South,Hyderabad,1,11695.78,0.15,9941.41,1064.82,Debit Card,5
+ORD0946,2025-08-21,CUST1225,Office Chair,Furniture,West,Ahmedabad,5,9195.44,0.1,41379.48,11381.38,UPI,4
+ORD0947,2025-04-20,CUST1062,Tablet,Electronics,North,Delhi,6,21025.05,0.05,119842.78,29858.84,Net Banking,3
+ORD0948,2025-02-07,CUST1092,Webcam,Accessories,East,Bhubaneswar,2,3444.18,0.0,6888.36,2117.73,UPI,5
+ORD0949,2025-07-04,CUST1012,Smartphone,Electronics,South,Bengaluru,3,27733.03,0.2,66559.27,-211.47,UPI,2
+ORD0950,2025-06-23,CUST1217,Tablet,Electronics,West,Pune,2,21010.69,0.1,37819.24,5724.68,Cash on Delivery,2
+ORD0951,2025-01-11,CUST1213,Monitor,Electronics,South,Hyderabad,1,17067.1,0.1,15360.39,1670.36,Credit Card,4
+ORD0952,2025-07-09,CUST1208,Desk,Furniture,North,Chandigarh,3,12837.34,0.1,34660.82,7269.5,Debit Card,2
+ORD0953,2025-03-08,CUST1204,Backpack,Bags,East,Patna,6,1674.83,0.05,9546.53,1542.07,Credit Card,2
+ORD0954,2025-11-22,CUST1063,Backpack,Bags,East,Bhubaneswar,6,1763.79,0.2,8466.19,995.75,UPI,5
+ORD0955,2025-01-28,CUST1162,Office Chair,Furniture,South,Hyderabad,5,9187.16,0.05,43639.01,12148.36,Debit Card,2
+ORD0956,2025-11-11,CUST1017,Backpack,Bags,Central,Indore,2,1865.46,0.15,3171.28,267.88,Credit Card,5
+ORD0957,2025-12-31,CUST1096,Headphones,Accessories,Central,Varanasi,3,2499.44,0.15,6373.57,1456.17,Cash on Delivery,4
+ORD0958,2025-10-26,CUST1167,Webcam,Accessories,Central,Indore,4,3370.27,0.15,11458.92,1380.18,UPI,2
+ORD0959,2025-08-06,CUST1228,Tablet,Electronics,South,Hyderabad,4,23278.35,0.15,79146.39,17345.28,Net Banking,5
+ORD0960,2025-06-01,CUST1114,Monitor,Electronics,East,Kolkata,3,18145.59,0.05,51714.93,9780.95,Cash on Delivery,3
+ORD0961,2025-08-28,CUST1111,Tablet,Electronics,North,Jaipur,4,22043.16,0.1,79355.38,17174.23,Net Banking,3
+ORD0962,2025-05-16,CUST1166,Printer,Electronics,West,Ahmedabad,3,11774.15,0.05,33556.33,8536.11,UPI,3
+ORD0963,2025-04-27,CUST1026,Smartphone,Electronics,West,Pune,5,28057.3,0.0,140286.5,31259.39,UPI,1
+ORD0964,2025-05-09,CUST1078,Mouse,Accessories,North,Jaipur,5,856.84,0.05,4069.99,835.33,Debit Card,2
+ORD0965,2025-06-03,CUST1073,Webcam,Accessories,South,Bengaluru,6,3634.3,0.1,19625.22,6068.41,Debit Card,4
+ORD0966,2025-04-27,CUST1059,Headphones,Accessories,North,Delhi,4,2561.64,0.05,9734.23,1607.75,Credit Card,4
+ORD0967,2025-08-25,CUST1088,Tablet,Electronics,Central,Varanasi,5,23006.63,0.15,97778.18,9835.1,UPI,3
+ORD0968,2025-10-13,CUST1008,Tablet,Electronics,East,Patna,6,21710.26,0.15,110722.33,18237.35,Debit Card,2
+ORD0969,2025-12-04,CUST1214,Office Chair,Furniture,South,Bengaluru,3,10173.9,0.0,30521.7,8547.3,Debit Card,3
+ORD0970,2025-12-20,CUST1138,Tablet,Electronics,East,Patna,4,22653.89,0.15,77023.23,7016.52,Debit Card,3
+ORD0971,2025-06-19,CUST1146,Office Chair,Furniture,North,Delhi,5,9933.74,0.05,47185.26,14863.94,Cash on Delivery,5
+ORD0972,2025-07-17,CUST1049,Office Chair,Furniture,East,Bhubaneswar,4,9050.39,0.15,30771.33,7865.09,Net Banking,1
+ORD0973,2025-12-12,CUST1142,Mouse,Accessories,Central,Bhopal,6,956.84,0.0,5741.04,1984.77,Credit Card,1
+ORD0974,2025-07-17,CUST1073,Webcam,Accessories,Central,Indore,1,3324.55,0.0,3324.55,657.37,Credit Card,2
+ORD0975,2025-03-29,CUST1084,Keyboard,Accessories,Central,Varanasi,1,1786.94,0.1,1608.25,315.03,Net Banking,4
+ORD0976,2025-07-19,CUST1245,Monitor,Electronics,North,Chandigarh,2,18104.98,0.15,30778.47,2946.46,Credit Card,2
+ORD0977,2025-10-22,CUST1241,Tablet,Electronics,West,Pune,4,23118.99,0.15,78604.57,18332.79,Debit Card,5
+ORD0978,2025-03-15,CUST1115,Tablet,Electronics,Central,Varanasi,6,22650.62,0.1,122313.35,32570.61,UPI,4
+ORD0979,2025-08-24,CUST1119,Office Chair,Furniture,South,Kochi,5,9239.92,0.2,36959.68,191.83,Cash on Delivery,1
+ORD0980,2025-12-31,CUST1203,Webcam,Accessories,North,Lucknow,3,3581.93,0.15,9133.92,1726.24,Debit Card,4
+ORD0981,2025-08-23,CUST1099,Office Chair,Furniture,South,Chennai,4,9118.68,0.2,29179.78,1216.48,Credit Card,5
+ORD0982,2025-03-22,CUST1071,Smartphone,Electronics,East,Bhubaneswar,6,29996.68,0.05,170981.08,27517.45,Cash on Delivery,3
+ORD0983,2025-07-30,CUST1196,Desk,Furniture,North,Lucknow,6,12434.95,0.05,70879.22,11061.09,Cash on Delivery,1
+ORD0984,2025-03-26,CUST1065,Mouse,Accessories,North,Lucknow,1,900.63,0.1,810.57,178.31,Credit Card,5
+ORD0985,2025-07-24,CUST1220,Laptop,Electronics,Central,Bhopal,1,51244.12,0.15,43557.5,7879.75,Credit Card,4
+ORD0986,2025-08-26,CUST1125,Laptop,Electronics,North,Delhi,3,51609.21,0.05,147086.25,40963.97,Net Banking,1
+ORD0987,2025-05-23,CUST1216,Smartphone,Electronics,Central,Nagpur,6,26845.48,0.15,136911.95,32528.48,Credit Card,2
+ORD0988,2025-03-28,CUST1020,Laptop,Electronics,North,Chandigarh,2,53188.47,0.2,85101.55,3373.29,UPI,3
+ORD0989,2025-09-30,CUST1056,Monitor,Electronics,Central,Bhopal,3,17072.47,0.0,51217.41,10318.39,Net Banking,1
+ORD0990,2025-06-07,CUST1114,Desk,Furniture,Central,Varanasi,6,12312.08,0.0,73872.48,22300.35,UPI,5
+ORD0991,2025-05-03,CUST1052,Laptop,Electronics,North,Jaipur,4,57350.61,0.05,217932.32,58513.93,UPI,1
+ORD0992,2025-02-02,CUST1057,Headphones,Accessories,North,Delhi,1,2434.85,0.05,2313.11,472.38,UPI,2
+ORD0993,2025-06-15,CUST1144,Webcam,Accessories,South,Chennai,1,3452.78,0.0,3452.78,748.82,Credit Card,5
+ORD0994,2025-02-24,CUST1092,Tablet,Electronics,Central,Nagpur,4,23545.01,0.0,94180.04,31410.77,Debit Card,2
+ORD0995,2025-04-23,CUST1017,Laptop,Electronics,East,Bhubaneswar,6,53382.91,0.15,272252.84,60038.61,Debit Card,5
+ORD0996,2025-11-03,CUST1128,Mouse,Accessories,North,Jaipur,1,955.51,0.15,812.18,162.14,UPI,5
+ORD0997,2025-11-20,CUST1179,Office Chair,Furniture,South,Chennai,3,10197.73,0.2,24474.55,3522.17,Net Banking,2
+ORD0998,2025-12-08,CUST1124,Mouse,Accessories,South,Chennai,6,937.69,0.1,5063.53,474.83,UPI,3
+ORD0999,2025-12-27,CUST1004,Laptop,Electronics,Central,Bhopal,4,55097.03,0.05,209368.71,50538.52,Credit Card,1
+ORD1000,2025-11-14,CUST1021,Office Chair,Furniture,North,Chandigarh,3,9099.32,0.15,23203.27,2144.28,UPI,2
